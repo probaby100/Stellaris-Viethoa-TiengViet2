@@ -1,8 +1,0 @@
-Hướng dẫn để Launcher Paradox nhận được mod
-
-1. Mở file "TiengViet2.mod" bằng ứng dụng Notepad
-2. Sửa đường dẫn "path="C:/Users/tuyen/OneDrive/Documents/Paradox Interactive/Stellaris/mod/TiengViet2" thành đường dẫn thư mục chứa file mod
-3. Chạy lại Launcher Paradox để xem thành quả
-4. Lỗi thì gửi bình luận lên video Youtube của mình nhé
-
-https://www.youtube.com/watch?v=g-M5zfeAdO8
