@@ -1702,6 +1702,8 @@
  drone_hunting_buff_desc: "Rõ ràng những Drone Khai Khoáng này là sản phẩm sản xuất hàng loạt. Chỉ cần tìm ra điểm yếu của một chiếc, thì cũng coi như là đã giải mã được toàn bộ."
  drone_mining_techniques: "Kỹ Thuật Khai Khoáng Bằng Drone"
  drone_mining_techniques_desc: "Thông qua việc sử dụng công nghệ thu được từ Drone Khai Khoáng, cuối cùng chúng ta đã có thể khai thác hiệu quả những mạch khoáng sản mà trước đây vốn bị coi là không bõ công khai thác."
+ drone_mining_techniques_nomad: "Kỹ thuật thu hoạch bằng drone"
+ drone_mining_techniques_nomad_desc: "Những kỹ thuật cải tiến từ drone khai khoáng giúp nâng cao hiệu suất thu hoạch tài nguyên của chúng ta trên hành trình du mục."
  cloud_hunting_buff: "Kẻ Hủy Diệt Đám Mây"
  cloud_hunting_buff_desc: "Điện tích của Đám Mây Hư Không sẽ dao động theo các chu kỳ tốc độ cao có thể nhìn thấy được. Nếu có thể tiến hành ném bom tốc độ cao với thời gian chuẩn xác, sẽ tạo ra năng lượng cực kỳ bất ổn trong cấu trúc của nó, khiến các cá thể bên trong bị kích hoạt."
  void_loops: "Vòng Lặp Hư Không"

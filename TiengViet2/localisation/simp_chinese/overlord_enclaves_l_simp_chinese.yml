@@ -33,6 +33,8 @@
  enclave.2.tooltip.bb: "Hệ sao này không có thành bang không gian nào khác"
  enclave.2.tooltip.c: "Hệ sao này phải thuộc quyền kiểm soát của chúng ta"
  enclave.2.tooltip.cc: "Hệ sao này thuộc quyền kiểm soát của chúng ta"
+ enclave.2.tooltip.c.nomads: "Chúng ta cần phải xây dựng một Trạm Dừng trong hệ sao này."
+ enclave.2.tooltip.cc.nomads: "Chúng ta có một Trạm Dừng trong hệ sao này."
  enclave.2.tooltip.d: "Sức chứa thành bang không gian không đủ"
  enclave.2.tooltip.dd: "Sức chứa thành bang không gian còn dư"
  enclave.2.tooltip.e: "Cần có một tiểu hành tinh hoặc mặt trăng trong hệ sao"

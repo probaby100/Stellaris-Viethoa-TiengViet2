@@ -1065,6 +1065,7 @@
  uplift.6000.wilderness.desc: "[Root.GetName] phát hiện có dạng sống thông minh đang sinh sống trên [from.GetName]. Dù thiếu sự dẫn dắt từ trí tuệ cộng sinh, loài [presapient_species.GetSpeciesClass] này đã đạt tới mức độ kiểm soát môi trường đáng kể.\n\nChúng ta sẽ tiếp tục theo dõi sát sao sự phát triển của sinh vật này, biết đâu một ngày nào đó sẽ sát nhập chúng vào đế chế. Sự xuất hiện của những sinh vật này báo hiệu tiềm năng thức tỉnh của [from.GetName]."
  uplift.6000.a: "Đúng vậy, chúng ta có kiến thức đó."
  uplift.6000.b: "Để sau đi."
+ uplift.6000.nomads: "Đón họ lên tàu."
  # Khai hóa Tiền trí tuệ thành công
  uplift.6010.name: "Khai hóa thành công"
  uplift.6010.continental.desc: "Loài thống trị trên [Root.GetName], [From.GetName], đã được khai hóa. Chỉ cần một chút can thiệp gen là đủ để giải phóng tiềm năng tiềm ẩn bên trong chúng, khiến khả năng nhận thức và sự linh hoạt trong thao tác của chúng được nâng cao đáng kể, trong khi các thành viên thuộc thế hệ cũ sẽ được lắp đặt các bộ phận cơ khí nhỏ."

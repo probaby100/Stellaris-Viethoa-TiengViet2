@@ -178,6 +178,7 @@
  MESSAGE_ASK_TO_JOIN_FEDERATION_TITLE: "Yêu cầu gia nhập liên bang"
  MESSAGE_LEAVE_FEDERATION_TITLE: "Rời khỏi liên bang"
  MESSAGE_OFFER_TRADE_DEAL_TITLE: "Đề xuất thỏa thuận thương mại"
+ MESSAGE_DEMAND_TRADE_DEAL_TITLE: "Yêu cầu thỏa thuận thương mại"
  MESSAGE_REQUEST_WAR_TITLE: "Yêu cầu tham chiến"
  MESSAGE_PROPOSE_INVITE_TITLE: "Đề xuất mời"
  MESSAGE_ASK_TO_BECOME_RELEASED_SUBJECT_TITLE: "Yêu cầu giải phóng chư hầu"
@@ -268,6 +269,7 @@
  WAR_END_VICTORY: "Chúng ta đã giành chiến thắng trong cuộc chiến này."
  WAR_END_DEFEAT: "Chúng ta đã thua trong cuộc chiến này."
  WAR_END_STATUS_QUO: "Cuộc chiến kết thúc với thỏa hiệp giữ nguyên hiện trạng."
+ WAR_END_TRADE_DEAL: "Chiến tranh đã kết thúc thông qua hòa giải."
  MESSAGE_OUR_SURRENDER_TITLE: "Chúng ta đã đầu hàng."
  MESSAGE_THEIR_SURRENDER_TITLE: "Chúng đã đầu hàng."
  MESSAGE_VICTORY_TITLE: "§GChiến thắng§!"
@@ -304,6 +306,9 @@
  MESSAGE_ENEMY_LEAVES_WAR_DESC: "$ENEMY|Y$ đã rút khỏi cuộc chiến do bị $OVERLORD|Y$ thu nạp làm chư hầu hoặc sáp nhập."
  TOAST_TRUCE_IS_OVER_TITLE: "Hiệp định đình chiến hết hạn"
  TOAST_TRUCE_IS_OVER_DESC: "Hiệp định đình chiến giữa chúng ta và §Y$ENEMY$§! đã mãn hạn."
+ MESSAGE_TRADE_DEAL_JOIN_WAR_TITLE: "Đề xuất tham chiến đã được chấp thuận"
+ MESSAGE_TRADE_DEAL_JOIN_WAR_DEFENSE_DESC: "Thông qua đàm phán thành công với $CALLER|Y$, chúng ta sẽ kề vai sát cánh cùng họ chống lại $ATTACKER|Y$."
+ MESSAGE_TRADE_DEAL_JOIN_WAR_OFFENSE_DESC: "Thông qua đàm phán thành công với $CALLER|Y$, chúng ta sẽ phối hợp cùng họ tấn công $DEFENDER|Y$."
  ####################################
  #Phát hiện hạm đội
  ####################################
@@ -378,6 +383,7 @@
  MESSAGE_DEBRIS_ANALYZED_FINISH_MESSAGE_TYPE_TITLE: "Phân tích mảnh vỡ hoàn tất"
  MESSAGE_DEBRIS_SCAVENGED_FINISH: "Chúng ta đã hoàn thành việc trục vớt tàn tích tại hệ sao $SYSTEM|Y$."
  MESSAGE_DEBRIS_SCAVENGED_FINISH_RESOURCE: "£$RESOURCE_KEY$£ §Y$NAME$§!: §G+$VAL$§!"
+ MESSAGE_HARVEST_RESOURCES_FINISH_RESOURCE: "$MESSAGE_DEBRIS_SCAVENGED_FINISH_RESOURCE$"
  MESSAGE_DEBRIS_SCAVENGED_FINISH_MESSAGE_TYPE_TITLE: "Đã trục vớt mảnh vỡ"
  MESSAGE_DEBRIS_SCAVENGED_AND_ANALYZED_FINISH: "Chúng ta đã hoàn thành việc trục vớt và phân tích mảnh vỡ tại $SYSTEM|Y$."
  MESSAGE_DEBRIS_SCAVENGED_AND_ANALYZED_FINISH_MESSAGE_TYPE_TITLE: "Đã trục vớt và phân tích mảnh vỡ"

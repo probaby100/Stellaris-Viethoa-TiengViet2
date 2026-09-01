@@ -178,10 +178,6 @@
  #Plural: -
  concept_guaranteed_colonies: "$FE_GUARANTEED_COLONIES$"
  concept_guaranteed_colonies_desc: "Tùy chọn này quy định có bao nhiêu hành tinh phù hợp sinh sống với cùng loại địa hình như Hành tinh mẹ sẽ được sinh ra ở gần hệ sao xuất phát. Tắt mục này có thể khiến bạn hoàn toàn không tìm thấy một hành tinh nào có thể định cư ở khu vực xung quanh."
- #Singular: ['concept_hatchery'] or §H$concept_hatchery$§!
- #Plural: -
- concept_hatchery: "$sm_hatchery$"
- concept_hatchery_desc: "§YVườn ươm§! cho phép chúng ta ươm mầm các £genetic_material£['concept_dna'] đã thu thập để nhân bản §YThú không gian§! làm lực lượng hạm đội quân sự."
  #Singular: ['concept_hyperlane'] or §H$concept_hyperlane$§!
  #Plural: ['concept_hyperlanes'] or §H$concept_hyperlanes$§!
  concept_hyperlane: "Tuyến Siêu không gian"
@@ -454,6 +450,11 @@
  concept_planet: "Hành tinh"
  concept_planets: "Hành tinh"
  concept_planet_desc: "£planet£§H$concept_planet$§! là một thiên thể hình cầu khổng lồ xoay quanh một ['concept_star'], và có thể sở hữu các §HMặt trăng§! của riêng mình.\n\nCó chín chủng loại §HHành tinh có thể sống được§! cơ bản có khả năng được cải tạo thành các £colony£['concept_colonies'].\n\nMột vài §HHành tinh không thể sống được§! có nguy cơ lọt vào danh sách ứng viên ['concept_terraforming'], hay chứa đựng những mạch tài nguyên trù phú đang chờ được khai thác bằng £mining_station£['concept_mining_station'] hay £science_ship£['concept_research_station']."
+ #Số ít: ['concept_habitable_world'] hoặc §H$concept_habitable_world$§!
+ #Số nhiều: ['concept_habitable_worlds'] hoặc §H$concept_habitable_worlds$§!
+ concept_habitable_world: "Hành tinh sống được"
+ concept_habitable_worlds: "Các hành tinh sống được"
+ concept_habitable_world_desc: "§H$concept_habitable_worlds$§! là các vật thể thiên văn có khả năng duy trì sự sống cho £pop£ ['concept_pops'], có thể phát triển thành £colony£ ['concept_colonies']. Nhóm này bao gồm các £planet£ ['concept_planets'] tự nhiên cũng như các ['concept_habitats'] và §HThế giới Vành đai§! nhân tạo.\n\nCác §H$concept_planets$§! sống được trong tự nhiên được chia thành chín kiểu khí hậu cơ bản.\n\nMột số hành tinh hiện chưa thể sinh sống có thể trở nên sống được thông qua ['concept_terraforming']."
  #Singular: £sector£ ['concept_sector'] or £sector£ §H$concept_sector$§!
  #Plural: £sector£ ['concept_sectors'] or £sector£ §H$concept_sectors$§!
  concept_sector: "Tinh vực"
@@ -492,7 +493,9 @@
  #Plural: -
  concept_starbase_capacity: "Sức chứa Căn cứ sao"
  concept_starbase_capacity_desc: "§H$concept_starbase_capacity$§! hiển thị số lượng ['concept_starbases'] có khả năng chống đỡ đợt nâng cấp hiệu quả, không tính toán các ['concept_outposts'].\n\nViệc vượt quá giới hạn căn cứ sao §H$concept_starbase_capacity$§! sẽ làm tăng ['concept_starbase_upkeep'].$tt_gain$—Chiếm hữu thêm nhiều ['concept_owned_systems'].\n—Triệt để khai thác các ['concept_technologies'] và ['concept_traditions'] đặc biệt."
- #Singular: ['concept_starbase_upkeep'] or §H$concept_starbase_upkeep$§!
+ concept_starbase_capacity_desc_settled: "§H$concept_starbase_capacity$§! hiển thị số lượng ['concept_starbases'] đã nâng cấp mà bạn có thể duy trì hiệu quả, ['concept_outposts'] không tính vào đây.\n\nVượt quá §H$concept_starbase_capacity$§! sẽ làm tăng ['concept_starbase_upkeep'].$tt_gain$— Nắm quyền kiểm soát thêm các ['concept_owned_systems'].\n— Tận dụng các ['concept_technologies'] và ['concept_traditions'] nhất định."
+ concept_starbase_capacity_desc_nomadic: "§H$concept_starbase_capacity$§! hiển thị số lượng £waystation£ ['concept_waystations'] mà một £nomad£ ['concept_nomadic_empire'] có thể duy trì hiệu quả.\n\nVượt quá §H$concept_starbase_capacity$§! sẽ làm tăng ['concept_starbase_upkeep'].$tt_gain$— Tận dụng các ['concept_technologies'] và ['concept_traditions'] nhất định." #Singular: ['concept_starbase_upkeep'] or §H$concept_starbase_upkeep$§!
+ #Số ít: ['concept_starbase_upkeep'] hoặc §H$concept_starbase_upkeep$§!
  #Plural: -
  concept_starbase_upkeep: "Phí bảo trì Căn cứ sao"
  concept_starbase_upkeep_desc: "§H$concept_starbase_upkeep$§! tiêu biểu cho khoản phí tài nguyên dài kỳ hòng nuôi sống một Căn cứ sao. Lượng phí này phần lớn bị hút vào dưới dạng £energy£['concept_energy'], những §HMô-đun§! hay §HCông trình§! xịn xò được đắp thêm vào có nguy cơ lôi kéo theo những khoản phí phát sinh tốn kém.\n\nChi phí duy tu sẽ nhảy múa tùy theo kích thước cũng như chức năng của căn cứ, việc nâng cấp lên một cấp độ cao hơn chắc chắn sẽ kéo theo những hóa đơn bảo trì đắt đỏ."
@@ -659,6 +662,11 @@
  concept_celestial_object_desc: "§H$concept_celestial_objects$§! là những vật thể có kích cỡ to lớn cư ngụ bên trong các £system£['concept_systems'], trong đó bao gồm cả ['concept_stars'], £planet£['concept_planets'], §HVệ tinh§!, và §HTiểu hành tinh§!."
  #Số ít: £district£ ['concept_city_district'] hoặc £district£ §H$concept_city_district$§!
  #Số nhiều: £district£ ['concept_city_districts'] hoặc £district£ §H$concept_city_districts$§!
+ concept_celestial_object: "Vật thể thiên văn"
+ concept_celestial_objects: "Các vật thể thiên văn"
+ concept_celestial_object_desc: "§H$concept_celestial_objects$§! là các vật thể lớn bên trong £system£ ['concept_systems'], bao gồm £star£ ['concept_stars'], £planet£ ['concept_planets'], §Hvệ tinh§!, và §Htiểu hành tinh§!."
+ #Số ít: £district£ ['concept_city_district'] hoặc £district£ §H$concept_city_district$§!
+ #Số nhiều: £district£ ['concept_city_districts'] hoặc £district£ §H$concept_city_districts$§!
  concept_city_district: "$district_city$"
  concept_city_districts: "$district_city_plural$"
  concept_city_district_desc: "—£housing£['concept_housing']: §G+500§!\n—Ô trống £building£['concept_building']: §G+1§!\n—Vị trí làm việc của £mod_job_clerk_add£['concept_clerk']: §G+100§!\n\n§L$district_city_desc$§!"
@@ -737,6 +745,11 @@
  concept_relic: "Di vật"
  concept_relics: "Di vật"
  concept_relic_desc: "§H$concept_relics$§! là các thánh tích đầy quyền năng từ những nền văn minh cổ đại, có khả năng trao cho người sở hữu những bùa lợi vô cùng độc đáo.\n\nCó thể tìm thấy chúng bên trong các £archaeology£['concept_archaeology_site'], thông qua việc hoàn thành các ['concept_event_chains'] nhất định, hoặc cướp đoạt từ tay những đế chế đã bị đánh bại khác.\n\nCác §H$concept_relics$§! cung cấp những hiệu ứng nội tại kéo dài liên tục, và có thể được kích hoạt để đạt được những hiệu ứng mang lại sức mạnh đáng gờm trong một khoảng thời gian hữu hạn. Có thể thực hiện quản lý tại thẻ $discoveries_view_tab_relics$ của £interface£['concept_discoveries_view']."
+ concept_overlord_holding: "Cơ sở của bảo hộ quốc"
+ concept_overlord_holdings: "Các cơ sở của bảo hộ quốc"
+ concept_overlord_holding_desc: "§H$concept_overlord_holdings$§! là các công trình đặc biệt do nước bảo hộ dựng nên trên những hành tinh thuộc quyền trị vì của họ. Những công trình này dùng để phô trương uy thế, khai thác tài nguyên hoặc thu hút dịch vụ, mỗi loại đều góp phần củng cố uy quyền của nước bảo hộ theo nhiều cách khác nhau.\n\nSố lượng và chủng loại §H$concept_overlord_holdings$§! được quyết định bởi các điều khoản trong ['concept_subject_agreement'], còn hiệu quả thực tế sẽ phụ thuộc vào ['concept_civics'], ['concept_ethics'] cùng ưu tiên chiến lược của nước bảo hộ. Dù đem lại nhiều lợi ích cho bên trị vì, một số cơ sở có thể làm gia tăng sự phẫn uất từ phía nước thuộc địa, nhất là khi chúng bị xem là hành vi bóc quốt hay xâm phạm chủ quyền."
+ #Số ít: ['concept_branch_office'] hoặc §H$concept_branch_office$§!
+ #Số nhiều: ['concept_branch_offices'] hoặc §H$concept_branch_offices$§!
  #Số ít: ['concept_astral_action'] hoặc §H$concept_astral_action$§!
  #Số nhiều: ['concept_astral_actions'] hoặc §H$concept_astral_actions$§!
  concept_astral_action: "Hành động tinh thể"

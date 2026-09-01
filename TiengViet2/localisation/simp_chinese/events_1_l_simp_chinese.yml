@@ -67,8 +67,8 @@
  ####################################
  #Sự Kiện On-Action
  ####################################
- action.1.name: "Chạm chán lần đầu với §H[contact_empire.GetName]§!"
- action.1.message: "Chúng ta đã có cuộc chạm chán lần đầu với §H[contact_empire.GetName]§!"
+ action.1.name: "Chạm trán lần đầu với §H[contact_empire.GetName]§!"
+ action.1.message: "Chúng ta đã có cuộc chạm trán lần đầu với §H[contact_empire.GetName]§!"
  action.1.desc_01: "Tôi thay mặt cho người thống trị tối cao của [contact_empire.GetName] - [contact_empire.GetRulerTitle] [contact_empire.GetRulerName] gửi lời chào. Hãy tôn trọng lãnh thổ của chúng tôi và tránh can thiệp vào công việc nội bộ của chúng tôi, có lẽ chúng tôi sẽ cân nhắc để hạm đội bách chiến bách thắng của mình đi đường vòng tránh xa thế giới của các người."
  action.1.desc_02: "Xin chào, tôi thay mặt cho [contact_empire.GetName] dưới sự thống trị của [contact_empire.GetRulerTitle] [contact_empire.GetRulerName] gửi lời chào đến các bạn. Chúng tôi cai quản lãnh thổ của mình tuân theo ý chỉ của thần linh. Chỉ cần các người không can thiệp vào các vấn đề tôn giáo của chúng tôi, chúng ta sẽ mãi duy trì tình hữu nghị chân thành."
  action.1.desc_03: "Chúng tôi đến từ [contact_empire.GetName], là những người hầu của nhà hiền triết vĩ đại [contact_empire.GetRulerTitle] [contact_empire.GetRulerName]. Chúng tôi hy vọng có thể nâng tầm bản thân thông qua công nghệ, dù bạn có tán thành điều này hay không, chúng tôi tin rằng bạn sẽ là một người láng giềng thân thiện."
@@ -285,7 +285,7 @@
  action.4.b.fallen.empire.6.response: "Thử thách! Đây chính là thử thách dành cho chúng ta! Cuối cùng, sự chờ đợi đằng đẵng cũng đã kết thúc."
  action.4.a: "Chúng tôi sẽ rút quân ngay."
  action.4.b: "Quân đoàn của chúng tôi nhất quyết không đi đấy. (Tuyên chiến)"
- action.5.name: "Chạm chán [primitive_civ.GetName]"
+ action.5.name: "Chạm trán [primitive_civ.GetName]"
  action.5.desc_00: "Chúng ta đã phát hiện ra sự tồn tại của nền văn minh ngoài hành tinh [GetPreFTLLower] trên §Y[primitive_civ.Capital.GetName]§! thuộc hệ sao §Y[primitive_civ.Capital.GetStarName]§!. Máy quét cho thấy, nền văn minh thời đồ đá mới này đã biết sử dụng lửa và phát triển được ngôn ngữ nói cơ bản, nhưng chúng ta chưa phát hiện ra bất kỳ dấu hiệu nào của việc luyện kim và giao tiếp bằng văn bản.\n\nChúng ta nên thiết lập một §YTrạm quan sát§! trên quỹ đạo hành tinh của họ, để tiện bề quan sát và nghiên cứu thêm."
  action.5.desc_01: "Chúng ta đã phát hiện ra sự tồn tại của nền văn minh ngoài hành tinh [GetPreFTLLower] trên §Y[primitive_civ.Capital.GetName]§! thuộc hệ sao §Y[primitive_civ.Capital.GetStarName]§!. Họ có vẻ như đang ở giai đoạn cuối của thời kỳ đồ đồng, đã nắm giữ được kỹ thuật gia công kim loại cơ bản. Mặc dù phần lớn người dân của họ sống trong các ngôi làng nhỏ, nhưng đã bắt đầu xuất hiện một vài thành phố lớn.\n\nChúng ta nên thiết lập một §YTrạm quan sát§! trên quỹ đạo hành tinh của họ, để tiện bề quan sát và nghiên cứu thêm."
  action.5.desc_02: "Chúng ta đã phát hiện ra sự tồn tại của nền văn minh ngoài hành tinh [GetPreFTLLower] trên §Y[primitive_civ.Capital.GetName]§! thuộc hệ sao §Y[primitive_civ.Capital.GetStarName]§!. Họ đã tiến vào giai đoạn tương đương với thời kỳ đồ sắt, và phân hóa thành vô số các vương quốc và đế chế manh mún. Giống loài của họ đã phủ sóng khắp toàn bộ bề mặt của [primitive_civ.Capital.GetPlanetMoon].\n\nChúng ta nên thiết lập một §YTrạm quan sát§! trên quỹ đạo hành tinh của họ, để tiện bề quan sát và nghiên cứu thêm."

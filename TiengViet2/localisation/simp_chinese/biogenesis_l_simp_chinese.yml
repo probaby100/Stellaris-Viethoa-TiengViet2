@@ -28,6 +28,7 @@
  SPECIES_TRAIT_CYBORG: "['concept_cybernetic_traits']"
  SPECIES_TRAIT_UNIVERSAL_AUGMENTATIONS: "['concept_universal_augmentations_traits']"
  SPECIES_TRAIT_ADAPTIVE_FRAMES: "['concept_adaptive_frames_traits']"
+ SPECIES_TRAIT_NOMAD: "['concept_nomad_traits']"
  trait_egg_laying: "Đẻ Trứng"
  trait_egg_laying_desc: "Trẻ sơ sinh của giống loài này không phát triển trong bụng mẹ, mà được bảo bọc an toàn trong vỏ trứng. Đặc điểm này cho phép dân số của họ bùng nổ nhanh chóng trong những thời kỳ vật chất dư dả."
  trait_egg_laying_effect: "Tốc Độ Tăng Trưởng Dân Số: §G+15%§! khi cư trú trên hành tinh có mức sản xuất $r_food$ (hoặc tương đương) địa phương bị §GDư Thừa§!"
@@ -102,6 +103,7 @@
  START_SCREEN_EVOLUTIONARY_PREDATORS_REGULAR: "$START_SCREEN_EVOLUTIONARY_PREDATORS_BASE$Chúng ta luôn thấu hiểu một chân lý, chính xương máu của con mồi đã nhào nặn nên hình hài của chúng ta ngày hôm nay — mỗi cuộc đi săn, mỗi một mạng sống bị tước đoạt đều đưa chúng ta lên một tầm cao mới.\n\nLịch sử đẫm máu của chúng ta không phải là gánh nặng, mà là tinh hoa của cả giống loài. Với sự trợ giúp của công nghệ hiện đại, chúng ta không còn phải nuốt sống kẻ thù để tiến hóa nữa; giờ đây, chỉ cần một vài sợi vật chất di truyền bé nhỏ cũng đủ để đan dệt vào cấu trúc sinh học của chúng ta.\n\nNgọn lửa khát khao tiến hóa đang rực cháy trong huyết quản, dưới ánh bình minh do [GetStartingDrive] mang lại, chúng ta đã sẵn sàng lao vào bãi săn thiên hà rộng lớn, để gặt hái tất thảy những gì tồn tại trong đó."
  START_SCREEN_EVOLUTIONARY_PREDATORS_HIVE: "$START_SCREEN_EVOLUTIONARY_PREDATORS_BASE$Tiềm thức tập thể của chúng ta luôn thấu hiểu tiềm năng di truyền của chính mình — chúng ta có thể hấp thu và thích ứng với những tinh hoa của con mồi, dung hợp những ưu điểm của chúng vào trong tổ ấm của chúng ta.\n\nBản năng săn mồi cổ xưa này đã được bảo tồn và duy trì ở một trạng thái cân bằng có kiểm soát cho đến tận ngày nay. Chúng ta không còn phụ thuộc vào việc đi săn để tiến hóa nữa, thay vào đó, chúng ta có thể tổng hợp bất kỳ vật chất di truyền nào trong phòng thí nghiệm và phân phối nó một cách hoàn hảo đến toàn bộ tổ ấm.\n\nVới sự ra đời của [GetStartingDrive], chúng ta đã sẵn sàng sải bước khắp thiên hà, gặt hái mọi thứ tồn tại trong đó."
  START_SCREEN_EVOLUTIONARY_PREDATORS_DEVOURING_SWARM: "$START_SCREEN_EVOLUTIONARY_PREDATORS_BASE$Chỉ đến khi ngấu nghiến toàn bộ sự sống trên [GetHomeWorldName], chúng ta mới nhận ra sự ngu xuẩn của chính mình. Giờ thì chúng ta biết tìm kiếm những năng lực thích nghi mới ở đâu đây? Và thế là, chúng ta ngước nhìn lên bầu trời.\n\nNhững kẻ săn mồi bình thường đi săn để sinh tồn, còn chúng ta, những kẻ săn mồi hoàn mỹ, đi săn để vươn tới sự hoàn hảo tuyệt đối của chính bản thân.\n\nVới sự ra đời của [GetStartingDrive], một lần nữa, chúng ta lại nín thở chờ đợi. Thiên hà bao la vô tận kia, chẳng khác nào một bữa đại tiệc đang vẫy gọi."
+ START_SCREEN_EVOLUTIONARY_PREDATORS_NOMADS: "[GetSpeciesNamePlural] sinh ra đã là những kẻ săn mồi. Cõi hư không bao la cũng chỉ là vùng hoang dã sâu thẳm nhất mà ta từng rong ruổi săn đuổi — và Tàu cứu thế chính là chiếc nanh vuốt sắc bén nhất mà ta mọc ra. Dưới sự thôi thúc của cơn đói khát, chẳng có màn đêm nào mà ta không thể xuyên thủng, cũng không có khoảng cách nào là xa xôi ngoài tầm với.\n\nChúng ta hiểu sâu sắc rằng, máu thịt của con mồi đã nhào nặn nên bản thân ta — mỗi cuộc săn, mỗi lần hạ sát đều đưa ta bước lên tầm cao mới.\n\nQuá khứ tàn bạo không phải là gánh nặng, mà chính là tinh hoa của giống loài chúng ta. Dưới sự trợ lực của công nghệ tân tiến, con đường tiến hóa không còn cần đến cảnh ăn tươi nuốt sống; chỉ cần những sợi vết tích mỏng manh của vật chất di truyền cũng đủ để đan dệt vào cấu trúc cơ thể ta.\n\nKhát vọng tiến hóa đang bùng cháy rực lửa trong huyết mạch, và với việc triển khai [GetStartingDrive], chúng ta đã sẵn sàng rảo khắp biển sao để thu hoạch tất cả những gì ngự trị nơi đó."
  #Đặc Điểm
  trait_malleable_genes: "Gen Dễ Uốn"
  trait_malleable_genes_desc: "§LGiống loài này không bị trói buộc vào một đặc điểm hay cơ quan cố định nào, chúng sẽ tự động phát triển ra những bộ phận thích hợp nhất cho từng nhiệm vụ cụ thể. Tuy nhiên, sự thiếu ổn định này cũng đi kèm với một số bất lợi nhất định.§!"
@@ -1356,6 +1358,9 @@
  trait_auto_pc_volcanic_preference: "Đột biến $pc_volcanic$"
  trait_auto_pc_volcanic_preference_tt: "Độ thích nghi khí hậu khô: $auto_base_penalty_sum_tt$\n$t$—Độ thích nghi khí hậu ẩm ướt: $auto_base_penalty_sum_tt$\n$t$—Độ thích nghi khí hậu lạnh: $auto_base_penalty_sum_tt$\n$t$—Độ thích nghi $pc_nuked$: $auto_base_penalty_sum_tt$\n$t$—Độ thích nghi $pc_volcanic$: $auto_base_bonus_sum_tt$"
  trait_auto_pc_volcanic_preference_desc: "$trait_auto_hab_preference_desc$"
+ trait_auto_pc_ark_preference: "$pc_ark$ Đột biến"
+ trait_auto_pc_ark_preference_tt: "Độ thích nghi $pc_ark$: $auto_base_tt$\n$t$—Độ thích nghi $pc_habitat$: $auto_ideal_bonus_tt$\n$t$—$IDEAL_PREFERENCE_TT$"
+ trait_auto_pc_ark_preference_desc: "$trait_auto_hab_preference_desc$"
  # Quyền lực Cấp cao
  organic_leaders_have_trade_upkeep: "Chi phí duy trì $r_unity$ của £leader£§Ylãnh đạo hữu cơ§! được thay thế bằng chi phí duy trì $r_trade$"
  # Thuần khiết
@@ -1469,6 +1474,7 @@
  auth_bio_hive_mind_evopred: "Ý thức Chimera"
  auth_bio_hive_mind_evopred_desc: "Tâm trí Bầy đàn này đã mệt mỏi với sự tự nhân lên đơn thuần. Mỗi thuộc địa mới trở thành một tấm thảm sống, điểm xuyết bằng những cảnh quan luôn thay đổi và sự dung hợp xác thịt. Sinh vật và hành tinh trở thành một, ranh giới tan biến trong Ý thức Chimera."
  auth_bio_hive_mind_evopred_tt: "$auth_bio_evopred_tt$\nTự động biến đổi môi trường thuộc địa thành §YHành tinh Bầy đàn§!\nThanh lọc người ngoài hành tinh; Tiến độ ['concept_adaptive_evolution'] từ §Yloài§! ngoại lai: §G+100%§!"
+ auth_bio_hive_mind_evopred_nomads_tt: "$auth_bio_evopred_tt$\nTiến độ ['concept_adaptive_evolution'] nhận được từ việc thanh lọc §Ychủng loài§! ngoài hành tinh tăng §G+100%§!"
  auth_bio_evopred_tt: "$EMPIRE_SIZE$ từ dân số giảm bởi mỗi đặc điểm loài: §G-1%§!\n$auth_mutation_habitability_tt$"
  # Quyền lực Cấp cao Bầy đàn
  auth_bio_hive_purity: "Mô hình Thanh lọc"
@@ -3046,8 +3052,6 @@
  marauder_destroyer_cap: "$marauder_destroyer$"
  pirate_corvette_cap: "$pirate_corvette$"
  FACTION_HOPEFUL: "Mong muốn thành lập phe phái $FACTION|Y$"
- POP_CATEGORY_PROMOTION: "Giai tầng xã hội: $CATEGORY|Y$ (Được thăng cấp)"
- POP_CATEGORY_DEMOTION: "Giai tầng xã hội: $CATEGORY|Y$ (Bị giáng cấp)"
  click_to_open_details: "§GNhấn để mở trang chi tiết§!"
  click_to_close_details: "§GNhấn để đóng trang chi tiết§!"
  click_to_show_in_details: "§GNhấn để xem trong trang chi tiết§!"

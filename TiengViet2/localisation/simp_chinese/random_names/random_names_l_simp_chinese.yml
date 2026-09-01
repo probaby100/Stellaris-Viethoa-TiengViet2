@@ -310,20 +310,35 @@
  Veqer: "Veqer"
  Mewash: "Mewash"
  Ferflor: "Ferflor"
- Matilon: "Matilon"
+ Matilon: "Matílon" # Có vẻ như chúng ta có hỗ trợ ký tự í, thật tuyệt.
  Versekyia: "Versekyia"
  Kuhlehm: "Kuhlehm"
- # Sao/hệ sao (thần linh & thần thoại)
- Aesir: "Aesir" # Bắc Âu
- Anahita: "Anahita" # Ba Tư
- Asgard: "Asgard" # Bắc Âu
- Astarte: "Astarte" # Hy Lạp
- Ekavira: "Ekavira" # Ấn Độ giáo
- Eurydice: "Eurydice" # Hy Lạp
- Ionides: "Ionides" # Hy Lạp
- Parnassos: "Parnassos" # Hy Lạp
- Perseus: "Perseus" # Hy Lạp
- Thoth: "Thoth" # Ai Cập cổ đại
+ SaKayra: "SaKayra"
+ Bonnele: "Bonnele"
+ Ardalan: "Ardalan"
+ MattLar: "MattLar"
+ JonOl: "JonOl"
+ Dmaxi: "Dmaxi"
+ Nikomet: "Nikomet"
+ Sanke: "Sanke"
+ Dzemyana: "Dzemyana"
+ NellFri: "NellFri"
+ Tuzhik: "Tuzhik"
+ Aygan: "Aygan"
+ BuokMariski: "BuokMariski"
+ NevG00: "NevG00"
+ SeBerg: "SeBerg"
+ #Stars/star systems (deities & mythology)
+ Aesir: "Aesir" #Norse
+ Anahita: "Anahita" #Persian
+ Asgard: "Asgard" #Norse
+ Astarte: "Astarte" #Greek
+ Ekavira: "Ekavira" #Hindu
+ Eurydice: "Eurydice" #Greek
+ Ionides: "Ionides" #Greek
+ Parnassos: "Parnassos" #Greek
+ Perseus: "Perseus" #Greek
+ Thoth: "Thoth" #Ancient Egyptian
  # Sao/hệ sao (tham chiếu văn hóa đại chúng)
  Amlitzer: "Amlitzer" # Legend of Galactic Heroes
  Aniara: "Aniara" # bởi Harry Martinson (cũng là HD 102956 trong chòm sao Đại Hùng)

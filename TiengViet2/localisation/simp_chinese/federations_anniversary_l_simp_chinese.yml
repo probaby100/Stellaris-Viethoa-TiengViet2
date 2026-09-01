@@ -1067,6 +1067,7 @@
  habitat_minor_orbital_DESC: "Một §Y$habitat_minor_orbital$§! $orbital_DESC_GENERIC$"
  habitat_minor_orbital_MEGASTRUCTURE_DETAILS: "§Y$habitat_minor_orbital$§! $orbital_MEGASTRUCTURE_DETAILS_ENDING$"
  habitat_system_tt: "§ETiềm năng Trạm cư trú:§!$TABBED_NEW_LINE$—Số khu vực tối đa: §Y[root.GetHabitatMaxDistricts]§!"
+ MEGASTRUCTURE_HABITAT_BEST_SYSTEMS_TOOLTIP_HEADER: "§ECác hệ sao có nhiều vị trí tiềm năng nhất để xây trạm trú ẩn:§!"
  ###########
  # SẮC LỆNH
  ###########
@@ -1098,6 +1099,8 @@
  edict_capacity_subsidies_desc: "$edict_capacity_overload_desc$"
  edict_capacity_subsidies_tooltip: "Phí duy trì của [technician.GetIcon][technician.GetNamePlural] tăng thêm £energy£§Y0.5§!"
  edict_mining_subsidies: "Trợ cấp Khai khoáng"
+ edict_mining_subsidies_nomadic: "$edict_mining_subsidies$"
+ edict_mining_subsidies_nomadic_desc: "$edict_mining_subsidies_desc$"
  edict_mining_subsidies_desc: "$edict_production_targets_desc$"
  edict_mining_subsidies_tooltip: "Phí duy trì của [miner.GetIcon][miner.GetNamePlural] tăng thêm £energy£§Y0.5§!"
  edict_industrial_subsidies: "Trợ cấp Công nghiệp"

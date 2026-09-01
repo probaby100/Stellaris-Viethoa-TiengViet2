@@ -420,6 +420,11 @@
  concept_auth_cyber_democratic_collectivist: "$auth_cyber_democratic_collectivist$"
  gov_cyber_democracy_collectivist: "$auth_cyber_democratic_collectivist$"
  gov_cyber_democracy_collectivist_desc: "$auth_cyber_democratic_collectivist_desc$"
+ pft_interlink: "Đại liên kết"
+ pft_interlink_desc: "Giao diện tương tác ý thức có thể thúc đẩy việc chia sẻ thời gian thực về dữ liệu cảm biến, phản ứng cảm xúc và mô hình tư duy giữa toàn thể thể cyborg. Để ngăn chặn tình trạng quá mẫn cảm với phản ứng ngoại thể, tường lửa cảm xúc sẽ lọc bỏ các phản ứng không cần thiết đối với các gói dữ liệu cảm xúc được chia sẻ."
+ interlink: "$pft_interlink$"
+ INTERLINK_NO_DEMANDS: "Ý thức liên kết"
+ INTERLINK_NO_DEMANDS_DESC: "Phe phái liên kết không có yêu sách. Dân số cyborg gia nhập Đại liên kết tự do chia sẻ kinh nghiệm và không đòi hỏi đặc quyền chính trị."
  # ĐẦU SỎ
  cyber_oligarchic_lifespan_tt: "Tuổi thọ của quan chức nội các người máy: §G+40 năm§!"
  cyber_oligarchic_ruleroutput_tt: "Mỗi §Y100§! £pop£§Hdân số chuyên gia§! sẽ tăng cường sản lượng tài nguyên tinh hoa: §G+1%§!"
@@ -565,6 +570,8 @@
  unlock_edict_self_indictment_protocol: "$unlock_edict_tt$['concept_edict_self_indictment_protocol']"
  edict_love_letter_virus: "Virus Bức thư Tình"
  edict_love_letter_virus_desc: "Kích thích bộ phận cấy ghép tiết ra nhiều pheromone và các hóa chất khác, nhằm dụ dỗ những người ở khắp mọi miền đế chế có thêm nhiều hành vi \"đa tình\" hơn."
+ edict_love_letter_virus_nomad: "$edict_love_letter_virus$"
+ edict_love_letter_virus_nomad_desc: "$edict_love_letter_virus_desc$"
  concept_edict_love_letter_virus: "$edict_love_letter_virus$"
  unlock_edict_love_letter_virus: "$unlock_edict_tt$['concept_edict_love_letter_virus']"
  #ĐẾ CHẾ

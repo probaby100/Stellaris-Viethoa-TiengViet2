@@ -71,7 +71,7 @@
  job_polytechnic_mentor_effect: "£job_polytechnic_mentor£$job_polytechnic_mentor_plural$ tăng cường cho các công việc khác: $job_polytechnic_job_tt$"
  concept_polytechnic_mentor: "$job_polytechnic_mentor_plural$"
  concept_polytechnic_mentor_desc: "£unity£$unity$ từ £job_miner£$job_miner_plural$: §G+0.3§!\n—£physics_research£$physics_research$ từ £job_technician£$job_technician_plural$: §G+0.3§!\n—£engineering_research£$engineering_research$ từ £job_foundry£$job_foundry_plural$: §G+0.3§!\n—£society_research£$society_research$ từ £job_artisan£$job_artisan_plural$: §G+0.3§!"
- job_polytechnic_job_tt: "$TABBED_NEW_LINE$£job_miner£['concept_planet_miners'] sản xuất £unity£§Y$unity$§!$TABBED_NEW_LINE$£job_technician£['concept_planet_technician'] sản xuất £physics_research£§Y$physics_research$§!$TABBED_NEW_LINE$£job_foundry£['concept_planet_metallurgists'] sản xuất £engineering_research£§Y$engineering_research$§!$TABBED_NEW_LINE$£job_artisan£['concept_planet_artisans'] sản xuất £society_research£§Y$society_research$§!"
+ job_polytechnic_job_tt: "$concept_polytechnic_mentor_desc$"
  job_polytechnic_drone: "Cá thể con Nhiệt công"
  job_polytechnic_drone_plural: "Cá thể con Nhiệt công"
  job_polytechnic_drone_desc: "Các cá thể con sở hữu nền tảng kỹ năng đa dạng, giúp thu hẹp khoảng cách giữa các lĩnh vực, nâng cao hiệu suất làm việc của công nhân chuyên môn."

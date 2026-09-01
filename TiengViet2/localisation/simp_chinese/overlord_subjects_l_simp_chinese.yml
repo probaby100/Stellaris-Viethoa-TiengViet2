@@ -145,6 +145,7 @@
  leader_trait_prospectorium_refiner_desc: "Nhà tinh chế sở hữu những kiến thức chuyên môn hiếm có, đóng vai trò sống còn trong việc tăng cường sản lượng Khí lạ, Hạt Nổ và Tinh Thể Quý Hiếm của chúng ta."
  # Trigger
  any_agreement_trigger: "Bất kỳ Thỏa thuận nào"
+ count_agreement_trigger: "Thỏa thuận"
  count_planet_army_trigger: "Lục quân trên Hành tinh"
  count_controlled_ship_all_trigger: "Tàu Kiểm soát trong Quỹ đạo"
  IS_CAPITALS_CONNECTED_THROUGH_RELAY_NETWORK: "Thủ đô tích hợp vào Mạng lưới Trung chuyển"
@@ -236,6 +237,7 @@
  subject_cannot_expand_desc: "Chư hầu không thể mở rộng lãnh thổ."
  subject_can_expand_with_tithe: "Mở rộng Có Điều kiện"
  subject_can_expand_with_tithe_desc: "Chư hầu có thể mở rộng lãnh thổ, nhưng khi xây dựng trạm tiền đồn ở biên giới, họ phải nộp thêm cống nạp $r_influence$ cho Mẫu quốc."
+ subject_can_expand_with_tithe_nomadic_desc: "Quốc gia phụ thuộc có thể mở rộng lãnh thổ của mình, nhưng khi xây dựng Trạm Dừng, bắt buộc phải nộp khoản cống nạp $r_influence$ cho đế chế bảo hộ."
  subject_can_expand: "Cho phép Mở rộng"
  subject_can_expand_desc: "Chư hầu có thể tự do mở rộng lãnh thổ."
  subject_sensors: "Cảm biến"
@@ -396,6 +398,7 @@
  not_allowed_for_fanatic_purifiers: "$TRIGGER_FAIL$Không cho phép Chư hầu sở hữu Tư tưởng Quốc gia §Y$civic_fanatic_purifiers$§! sử dụng."
  not_allowed_for_devouring_swarm: "$TRIGGER_FAIL$Không cho phép Chư hầu sở hữu Tư tưởng Quốc gia §Y$civic_hive_devouring_swarm$§! sử dụng."
  not_allowed_for_machine_terminator: "$TRIGGER_FAIL$Không cho phép Chư hầu sở hữu Tư tưởng Quốc gia §Y$civic_machine_terminator$§! sử dụng."
+ not_allowed_for_different_empire_types: "$TRIGGER_FAIL$Không cho phép đạt thỏa thuận này giữa Đế chế Du mục và Đế chế Định cư."
  # Icon văn bản Mẫu
  text_icon_preset_vassal: "£vassal£"
  text_icon_preset_tributary: "£tributary£"
