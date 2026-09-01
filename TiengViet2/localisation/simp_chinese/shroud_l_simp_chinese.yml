@@ -564,22 +564,22 @@
  #==========================
  # Đặc tính quốc gia
  #==========================
- # Kẻ Hút Entropy
- civic_tooltip_not_entropy_drinkers: "Không có đặc tính quốc gia dạng ['concept_entropy_drinkers_civics']"
- civic_entropy_drinkers: "Kẻ Hút Entropy"
- civic_entropy_drinkers_desc: "$civic_ap_blockade_tt$\n\nXã hội này lợi dụng liên kết tâm linh ký sinh để bòn rút năng lượng trao đổi chất quý giá từ lượng dân số nhàn rỗi. Nguồn năng lượng thu gom được có thể tái phân bổ cho các tầng lớp quan trọng hơn."
- civic_entropy_drinkers_effects: "— Cho phép các §H$EDICTS$§! sau:$TABBED_NEW_LINE$— ['edict:energy_drain',$edict_energy_drain$]$TABBED_NEW_LINE$— ['edict:sanguine_council',$edict_sanguine_council$]$TABBED_NEW_LINE$— ['edict:psychic_feast',$edict_psychic_feast$]\n— Có thể xây dựng: £building£['building:building_lifecrypt_1'].\n— Lãnh đạo bẩm sinh sở hữu đặc tính ['concept_leader_trait_psionic']."
- civic_entropy_drinkers_psionic_modifier: "— $energy_with_icon$ tạo ra trên mỗi $pop_group_unit$ £pop£ Dân số Tâm linh: §G+0.5§!"
- civic_entropy_drinkers_machine: "Máy Hút Năng Lượng"
- civic_entropy_drinkers_machine_desc: "$civic_ap_blockade_tt$\n\nPhân bổ năng lượng hợp lý là yếu tố sống còn để đảm bảo hiệu suất tối đa cho các cỗ máy cấp cao. Mọi đơn vị đều được thiết kế cho mục tiêu này, cho phép chúng định kỳ ép xung các nút mạng then chốt khi cần thiết."
- civic_entropy_drinkers_machine_effects: "— Mở khóa các §H$EDICTS$§! sau:$TABBED_NEW_LINE$— ['edict:energy_drain',$edict_energy_drain$]$TABBED_NEW_LINE$— ['edict:sanguine_council_machine',$edict_sanguine_council_machine$]$TABBED_NEW_LINE$— ['edict:psychic_feast',$edict_psychic_feast$]\n— Có thể xây dựng: £building£['building:building_lifecrypt_machine_1'].\n— Lãnh đạo khởi đầu sở hữu đặc tính ['concept_leader_trait_psionic']."
- civic_entropy_drinkers_hive_mind: "Thứ Bậc Ký Sinh"
- civic_entropy_drinkers_hive_mind_desc: "$civic_ap_blockade_tt$\n\nTập thể này tận dụng liên kết tâm linh ký sinh để hút lấy năng lượng trao đổi chất quý giá từ các drone cấp thấp. Nguồn năng lượng thu gom được có thể tái phân bổ cho những tầng lớp trọng yếu hơn."
- civic_entropy_drinkers_hive_mind_effects: "— Mở khóa các §H$EDICTS$§! sau:$TABBED_NEW_LINE$— ['edict:energy_drain',$edict_energy_drain$]$TABBED_NEW_LINE$— ['edict:sanguine_council',$edict_sanguine_council$]$TABBED_NEW_LINE$— ['edict:psychic_feast',$edict_psychic_feast$]\n— Có thể xây dựng: £building£['building:building_lifecrypt_hive_mind_1'].\n— Lãnh đạo khởi đầu sở hữu đặc tính ['concept_leader_trait_psionic']."
+ # Kẻ Hút Cạn Entropy
+ civic_tooltip_not_entropy_drinkers: "Không có đường lối ['concept_entropy_drinkers_civics']"
+ civic_entropy_drinkers: "Kẻ Hút Cạn Entropy"
+ civic_entropy_drinkers_desc: "$civic_ap_blockade_tt$\n\nXã hội này dùng mối liên kết tâm linh ký sinh để bòn rút năng lượng sống quý giá từ những cư dân nhàn rỗi. Lượng năng lượng thu gom được sẽ phân phát lại cho các tầng lớp quan trọng hơn."
+ civic_entropy_drinkers_effects: "—Cho phép các §H$EDICTS$§! sau:$TABBED_NEW_LINE$—['edict:energy_drain',$edict_energy_drain$]$TABBED_NEW_LINE$—['edict:sanguine_council',$edict_sanguine_council$]$TABBED_NEW_LINE$—['edict:psychic_feast',$edict_psychic_feast$]\n—Có thể xây dựng: £building£['building:building_lifecrypt_1'].\n—Lãnh tụ bẩm sinh có đặc điểm ['concept_leader_trait_psionic']."
+ civic_entropy_drinkers_psionic_modifier: "—$energy_with_icon$ tạo ra từ mỗi $pop_group_unit$ £pop£ dân tâm linh: §G+0.5§!"
+ civic_entropy_drinkers_machine: "Cỗ Máy Hút Năng Lượng"
+ civic_entropy_drinkers_machine_desc: "$civic_ap_blockade_tt$\n\nPhân bổ năng lượng hợp lý là yếu tố sống còn để duy trì hiệu năng tối đa cho các cỗ máy cấp cao. Mọi đơn vị đều được thiết kế xoay quanh mục tiêu này, cho phép ép xung định kỳ các nút cốt lõi khi cần thiết."
+ civic_entropy_drinkers_machine_effects: "—Mở khóa các §H$EDICTS$§! sau:$TABBED_NEW_LINE$—['edict:energy_drain',$edict_energy_drain$]$TABBED_NEW_LINE$—['edict:sanguine_council_machine',$edict_sanguine_council_machine$]$TABBED_NEW_LINE$—['edict:psychic_feast',$edict_psychic_feast$]\n—Có thể xây dựng: £building£['building:building_lifecrypt_machine_1'].\n—Lãnh tụ khởi đầu có đặc điểm ['concept_leader_trait_psionic']."
+ civic_entropy_drinkers_hive_mind: "Trật Tự Ký Sinh"
+ civic_entropy_drinkers_hive_mind_desc: "$civic_ap_blockade_tt$\n\nCộng đồng này tận dụng mối liên kết tâm linh ký sinh để bòn rút năng lượng sống quý giá từ các đơn vị cấp thấp. Nguồn năng lượng thu gom được sẽ phân bổ lại cho các nhánh quan trọng hơn."
+ civic_entropy_drinkers_hive_mind_effects: "—Mở khóa các §H$EDICTS$§! sau:$TABBED_NEW_LINE$—['edict:energy_drain',$edict_energy_drain$]$TABBED_NEW_LINE$—['edict:sanguine_council',$edict_sanguine_council$]$TABBED_NEW_LINE$—['edict:psychic_feast',$edict_psychic_feast$]\n—Có thể xây dựng: £building£['building:building_lifecrypt_hive_mind_1'].\n—Lãnh tụ khởi đầu có đặc điểm ['concept_leader_trait_psionic']."
  civic_entropy_drinkers_corporate: "Tập Đoàn Hút Máu"
- civic_entropy_drinkers_corporate_desc: "$civic_ap_blockade_tt$\n\n$gov_megacorporation$ này tận dụng liên kết tâm linh ký sinh để bòn rút năng lượng trao đổi chất quý giá từ lượng dân số nhàn rỗi. Nguồn năng lượng thu gom được có thể tái phân bổ cho các giám đốc điều hành cấp cao."
- civic_entropy_drinkers_corporate_effects: "— Mở khóa các §H$EDICTS$§! sau:$TABBED_NEW_LINE$— ['edict:energy_drain',$edict_energy_drain$]$TABBED_NEW_LINE$— ['edict:sanguine_council',$edict_sanguine_council$]$TABBED_NEW_LINE$— ['edict:psychic_feast',$edict_psychic_feast$]\n— Có thể xây dựng: £building£['building:building_lifecrypt_corporate_1'].\n— Lãnh đạo khởi đầu sở hữu đặc tính ['concept_leader_trait_psionic'].\n— £building£§Y$building_executive_retreat$§! $megacorp_civic_branch_office_building_effect$"
- has_not_begun_non_psionic_ascension: "Chưa chọn các con đường khác ngoài §YThăng Hoa Tâm Linh§!" has_not_begun_non_psionic_ascension_success: "$TRIGGER_PASS$$has_not_begun_non_psionic_ascension$"
+ civic_entropy_drinkers_corporate_desc: "$civic_ap_blockade_tt$\n\n$gov_megacorporation$ này dùng mối liên kết tâm linh ký sinh để bòn rút năng lượng sống quý giá từ dân nhàn rỗi. Lượng năng lượng gom được sẽ phân phát lại cho các cấp quản lý cao hơn."
+ civic_entropy_drinkers_corporate_effects: "—Mở khóa các §H$EDICTS$§! sau:$TABBED_NEW_LINE$—['edict:energy_drain',$edict_energy_drain$]$TABBED_NEW_LINE$—['edict:sanguine_council',$edict_sanguine_council$]$TABBED_NEW_LINE$—['edict:psychic_feast',$edict_psychic_feast$]\nCó thể xây dựng: £building£['building:building_lifecrypt_corporate_1'].\n—Lãnh tụ khởi đầu có đặc điểm ['concept_leader_trait_psionic'].\n—£building£§Y$building_executive_retreat$§!$megacorp_civic_branch_office_building_effect$"
+ has_not_begun_non_psionic_ascension: "Chưa chọn con đường tiến hóa nào khác ngoài §YThăng Hoa Tâm Linh§!"
  has_not_begun_non_psionic_ascension_success: "$TRIGGER_PASS$$has_not_begun_non_psionic_ascension$"
  has_not_begun_non_psionic_ascension_fail: "$TRIGGER_FAIL$$has_not_begun_non_psionic_ascension$"
  # Niềm Tin Mê Tín
@@ -792,14 +792,14 @@
  comet_sighted_fortune_desc: "Một vì sao chổi tráng lệ đã thắp lên niềm cảm hứng cho người dân."
  comet_sighted_omens: "Điềm Hung Sao Chổi"
  comet_sighted_omens_desc: "Ngôi sao chổi mang đầy vẻ đe dọa này đã giáng xuống một điềm rủi cho thần dân của ta."
- concept_entropy_drinkers_civics: "Kẻ Hút Trích Entropy"
- concept_entropy_drinkers_civics_desc: "Các Đặc điểm Quốc gia thuộc nhóm $concept_entropy_drinkers_civics$ bao gồm\n—['civic:civic_entropy_drinkers']$NEW_LINE$—['civic:civic_entropy_drinkers_corporate']$NEW_LINE$—['civic:civic_entropy_drinkers_hive_mind']$NEW_LINE$—['civic:civic_entropy_drinkers_machine']"
+ concept_entropy_drinkers_civics: "Kẻ Hút Cạn Entropy"
+ concept_entropy_drinkers_civics_desc: "Các đường lối thuộc nhóm $concept_entropy_drinkers_civics$ bao gồm:\n—['civic:civic_entropy_drinkers']$NEW_LINE$—['civic:civic_entropy_drinkers_corporate']$NEW_LINE$—['civic:civic_entropy_drinkers_hive_mind']$NEW_LINE$—['civic:civic_entropy_drinkers_machine']"
  concept_twisted_experimenters_civics: "$civic_twisted_experimenters$"
- concept_twisted_experimenters_civics_desc: "Các Đặc điểm Quốc gia thuộc nhóm $concept_twisted_experimenters_civics$ bao gồm\n—['civic:civic_twisted_experimenters']$NEW_LINE$—['civic:civic_twisted_experimenters_corporate']$NEW_LINE$—['civic:civic_twisted_experimenters_hive_mind']"
+ concept_twisted_experimenters_civics_desc: "Các đường lối thuộc nhóm $concept_twisted_experimenters_civics$ bao gồm:\n—['civic:civic_twisted_experimenters']$NEW_LINE$—['civic:civic_twisted_experimenters_corporate']$NEW_LINE$—['civic:civic_twisted_experimenters_hive_mind']"
  concept_secret_societies_civics: "$civic_secret_societies$"
- concept_secret_societies_civics_desc: "Các Đặc điểm Quốc gia thuộc nhóm $concept_secret_societies_civics$ bao gồm\n—['civic:civic_secret_societies']$NEW_LINE$—['civic:civic_secret_societies_corporate']"
+ concept_secret_societies_civics_desc: "Các đường lối thuộc nhóm $concept_secret_societies_civics$ bao gồm:\n—['civic:civic_secret_societies']$NEW_LINE$—['civic:civic_secret_societies_corporate']"
  concept_shroudfall: "$d_shroudfall$"
- concept_shroudfall_desc: "§Y$BLOCKER_DEPOSIT$§!\n—$MOD_PLANET_MAX_DISTRICTS_ADD$: §R-1§!\n—$mod_planet_jobs_worker_produces_mult$: §R-5%§!\n—$mod_planet_pops_upkeep_mult$: §R+10%§!\n\nThời gian dọn dẹp: £resource_time£§Y360§!\n$t$Cơ bản: £energy£§Y1500§! £unity£§Y1500§!\n\n§L$d_shroudfall_desc$§!"
+ concept_shroudfall_desc: "§Y$BLOCKER_DEPOSIT$§!\n—$MOD_PLANET_MAX_DISTRICTS_ADD$: §R-1§!\n—$mod_planet_jobs_worker_produces_mult$: §R-5%§!\n—$mod_planet_pops_upkeep_mult$: §R+10%§!\n\nThời gian dọn dẹp: £resource_time£§Y360§!\n$t$Cơ bản: £energy£§Y1500§!£unity£§Y1500§!\n\n§L$d_shroudfall_desc$§!"
  #==========================
  # Quốc gia
  #==========================
