@@ -246,8 +246,8 @@
  STARBASE_BUILDQUEUE_UP: "§GNhấp để di chuyển thứ tự xây dựng lên một bậc.\nGiữ phím Shift và nhấp để di chuyển nó lên vị trí đầu tiên.§!"
  STARBASE_BUILDQUEUE_DOWN: "§GNhấp để di chuyển thứ tự xây dựng xuống một bậc.\nGiữ phím Shift và nhấp để di chuyển nó xuống vị trí cuối cùng.§!"
  STARBASE_MODIFIER_EFFECTS: "Hiệu ứng Công cụ điều chỉnh"
- STARBASE_MODIFIER_HYPERLANE_RANGE: "Phạm vi Dò tìm Siêu không gian £mod_planet_hyperlane_range_add$:"
- STARBASE_MODIFIER_SENSOR_RANGE: "Phạm vi Dò tìm £mod_ship_sensor_range_add$:"
+ STARBASE_MODIFIER_HYPERLANE_RANGE: "£mod_planet_hyperlane_range_add£Tầm quét tuyến siêu không gian: "
+ STARBASE_MODIFIER_SENSOR_RANGE: "£mod_ship_sensor_range_add£Tầm quét: "
  ##        ##      ###      ###      #   #       ##       #   #       ##
  ##  #       #       #        #   #      #  #       # #       #
  ###     ####       #       ##       # # #     ####        #         #
@@ -304,9 +304,11 @@
  TECH_UNLOCK_STARBASE_MODULE: "§HMở khóa Mô-đun Căn cứ Không gian:§! $NAME$"
  TECH_UNLOCK_ORBITAL_MODULE: "§HMở khóa Mô-đun Căn cứ Vành đai:§! $NAME$"
  TECH_UNLOCK_STARBASE_MODULE_CONCEPT: "$t$—§YMở khóa Mô-đun Căn cứ Không gian:§! $NAME$"
+ TECH_UNLOCK_ORBITAL_MODULE_CONCEPT: "$t$—§YMở khóa Mô-đun vành đai quỹ đạo: §!$NAME$"
  TECH_UNLOCK_STARBASE_BUILDING: "§HMở khóa Công trình Căn cứ Không gian:§! $NAME$"
  TECH_UNLOCK_ORBITAL_BUILDING: "§HMở khóa Công trình Căn cứ Vành đai:§! $NAME$"
  TECH_UNLOCK_STARBASE_BUILDING_CONCEPT: "$t$—§YMở khóa Công trình Căn cứ Không gian:§! $NAME$"
+ TECH_UNLOCK_ORBITAL_BUILDING_CONCEPT: "$t$—§YMở khóa công trình vành đai quỹ đạo: §!$NAME$"
  tech_ftl_inhibitor: "Ức chế FTL"
  tech_ftl_inhibitor_desc: "Máy Chiếu Giếng Trọng lực có thể tạo ra các khu vực cục bộ không thể tiến vào siêu không gian một cách an toàn. Nhu cầu năng lượng và kích thước của nó vô cùng lớn, chỉ những trạm không gian từ cấp độ Căn cứ Không gian trở lên mới có thể lắp đặt."
  ION_CANNON_CORE: "Lõi Pháo Ion"

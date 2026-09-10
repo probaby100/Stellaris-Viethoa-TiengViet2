@@ -14,6 +14,7 @@
  # Sự kiện Bất thường
  ####################################
  anomaly.6000.name: "Vệ tinh lang thang"
+ #"hành tinh mẹ" và "thiên thể chủ của nó", đang chờ cập nhật khóa dịch PARENTPLANET
  anomaly.6000.desc: "Cấu tạo vật chất của [From.GetName] không giống với hành tinh mẹ, điều này chứng tỏ ban đầu nó là một tiểu hành tinh lang thang bị trường trọng lực khổng lồ của hành tinh mẹ hiện tại thu hút. Nghiên cứu sâu hơn sẽ tiết lộ nó đến từ đâu."
  anomaly.6001.desc: "Có một căn cứ bên trong [From.GetName]!"
  anomaly.6002.name: "Hành tinh rỗng ruột"
@@ -218,7 +219,6 @@
  colony.3033.b: "Bạn còn đó không?"
  colony.3033.c: "Làm ơn trả lời đi!"
  colony.3033.d: "Họ xong đời rồi..."
- colony.3033.reply: "**§YChỉ còn lại tiếng nhiễu§!**"
  colony.3033.reply: "**§YChỉ còn lại tiếng nhiễu§!**"
  dportal_trade_normal: "Thương mại liên chiều"
  dportal_trade_normal_desc: "Giao thương với bản sao của chính chúng ta mang lại lợi ích cho cả đôi bên."

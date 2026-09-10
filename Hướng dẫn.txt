@@ -5,4 +5,11 @@ Hướng dẫn để Launcher Paradox nhận được mod
 3. Chạy lại Launcher Paradox để xem thành quả
 4. Lỗi thì gửi bình luận lên video Youtube của mình nhé
 
+Hướng dẫn chạy thẳng Stellaris dành cho anh em hệ hắc ám
+1. Mở file "TiengViet2.mod" bằng ứng dụng Notepad
+2. Sửa đường dẫn "path="C:/Users/tuyen/OneDrive/Documents/Paradox Interactive/Stellaris/mod/TiengViet2" thành đường dẫn thư mục chứa file mod
+3. Tạo một lối tắt (shortcut) của file stellaris.exe nằm trong thư mục gốc của trò chơi, thêm dòng sau vào đường dẫn, lưu ý nhớ sửa đường dẫn đúng theo nơi lưu game ---- "D:\Stellaris\stellaris.exe -mod=mod/TiengViet2.mod"
+4. Chạy bản lối tắt Stellaris đó để vào game
+5. Lỗi thì gửi bình luận lên video Youtube của mình nhé
+
 https://www.youtube.com/watch?v=g-M5zfeAdO8

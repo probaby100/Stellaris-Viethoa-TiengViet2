@@ -111,10 +111,10 @@
  starbase_view_tab_shipyard: "§H$STARBASE_SHIPYARD_TAB$§!"
  concept_starbase_view_tabs: "—$starbase_view_tab_command$: Tổng quan về các §HMô-đun§! và §HCông trình§! của căn cứ sao. Sau khi nghiên cứu ['concept_technology'] cần thiết, bạn có thể nâng cấp căn cứ sao lên cấp độ tiếp theo\n—$starbase_view_tab_defenses$: Hiển thị các ['concept_defense_platforms'] hiện có, có thể nhấp vào từng loại để chế tạo thêm\n—$starbase_view_tab_armies$: Cung cấp phương thức để tập hợp số lượng lớn §H$assault_army_plural$§!. Quân đội sẽ được thành lập trên các £colony£['concept_colonies'] có sẵn trong £sector£['concept_sector'] và sẽ tập kết tại căn cứ sao này hoặc tại một §HLục quân§! đã bật tùy chọn §HTập kết Lục quân§!\n—$starbase_view_tab_shipyard$: Dùng để chế tạo ['concept_civilian_ships'] và ['concept_military_ships']"
  # Giao diện: £interface£ ['concept_system_map'] hoặc £interface£ §H$concept_system_map$§!
- concept_waystation_view: "Giao Diện Trạm Dừng"
+ concept_waystation_view: "Giao Diện trạm tiếp vận"
  concept_waystation_view_desc: "£interface£ §H$concept_waystation_view$§! cho phép quản lý £waystation£ ['concept_waystation'].$ui_available_tabs$$concept_waystation_view_tabs$"
  waystation_view_tab_waystation: "§H$waystation_starbase_tab$§!"
- concept_waystation_view_tabs: "— $waystation_view_tab_waystation$: Cung cấp giao diện tổng quan về §HMô-đun§! và §HKho dự trữ§! của Trạm Dừng. Sau khi nghiên cứu ['concept_technology'] liên quan, có thể nâng cấp Trạm Dừng tại đây."
+ concept_waystation_view_tabs: "— $waystation_view_tab_waystation$: Cung cấp giao diện tổng quan về §HMô-đun§! và §HKho dự trữ§! của trạm tiếp vận. Sau khi nghiên cứu ['concept_technology'] liên quan, có thể nâng cấp trạm tiếp vận tại đây."
  # View: £interface£ ['concept_system_map'] or £interface£ §H$concept_system_map$§!
  concept_system_map: "Bản Đồ Hệ Sao"
  concept_system_map_desc: "£interface£§H$concept_system_map$§! cung cấp góc nhìn chi tiết về một hệ sao, bao gồm ['concept_celestial_objects'], ['concept_civilian_space_stations'], ['concept_fleets'] cùng cơ sở hạ tầng quỹ đạo. Nó cho phép quản lý chính xác việc xây dựng, thuộc địa hóa, chiến dịch tác chiến và hoạt động khoa học bên trong hệ sao."

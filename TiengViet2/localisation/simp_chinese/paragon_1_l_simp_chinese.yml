@@ -1149,7 +1149,7 @@
  council_agenda_agenda_superior_colonies_desc: "Chúng ta đã nỗ lực hết mình trong khâu hậu cần để dốc sức hỗ trợ cho sự phát triển của các thuộc địa mới."
  council_agenda_agenda_superior_colonies_effect: "Thuộc địa mới nhận được §Y$MOD_PLANET_BUILDING_BUILD_SPEED_MULT$:§! §G+50§! trong §Y10§! năm."
  council_agenda_agenda_superior_colonies_nomad_name: "Ưu Tiên Trạm Không Gian"
- council_agenda_agenda_superior_colonies_nomad_desc: "Chúng ta đã dồn nhiều nỗ lực vào mặt hậu cần nhằm hỗ trợ sự phát triển của các Trạm Dừng."
+ council_agenda_agenda_superior_colonies_nomad_desc: "Chúng ta đã dồn nhiều nỗ lực vào mặt hậu cần nhằm hỗ trợ sự phát triển của các trạm tiếp vận."
  agenda_superior_colonies_finish: "$council_agenda_agenda_superior_colonies_name$ $agenda_ref$"
  agenda_superior_colonies_finish_desc: "$council_agenda_agenda_superior_colonies_desc$"
  agenda_superior_colonies_finish_wilderness: "$agenda_superior_colonies_finish$"

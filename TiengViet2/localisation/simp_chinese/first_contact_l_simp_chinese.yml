@@ -2321,3 +2321,4 @@
  first_contact.1165.name: "Đã bảo không là không"
  first_contact.1165.desc: "Việc từ chối lời mời lên tàu của §H[This.ContactCountry.GetName]§! lần thứ hai đã nhận về một phản hồi đầy kích động. Chúng ta đã nhận được một đoạn liên lạc dài hàng giờ đồng hồ từ nhiều thành viên phi hành đoàn ngoài hành tinh, mà [This.Owner.GetLinguists] của chúng ta cho rằng đó là những lời lên án việc chúng ta không chịu tham dự.\n\nNhững đoạn liên lạc này, kết hợp với các tín hiệu đánh chặn được từ tàu của họ, đã giúp chúng ta giải mã được đủ ngôn ngữ để có những hiểu biết thực sự có ý nghĩa. Bất chấp thái độ tiêu cực của họ về sự cố này, giờ đây chúng ta đã có thể thiết lập các mối quan hệ ngoại giao phù hợp hơn."
  first_contact.1165.a: "Bọn ngoài hành tinh này thật bướng bỉnh."
+ 

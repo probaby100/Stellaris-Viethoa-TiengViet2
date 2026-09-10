@@ -60,3 +60,4 @@
  reduce_living_metal_output: "Khai thác $sr_living_metal$ kém hiệu quả"
  reduce_living_metal_output_desc: "Chúng ta đang khai thác $sr_living_metal$ trong tình trạng thiếu công nghệ cần thiết."
  reduce_living_metal_output_tt: "$mod_station_gatherers_sr_living_metal_produces_mult$§R-75%§!"
+ 

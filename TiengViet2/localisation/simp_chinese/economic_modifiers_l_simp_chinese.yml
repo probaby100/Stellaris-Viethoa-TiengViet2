@@ -5670,3 +5670,4 @@
  mod_ship_cutholoid_amenities_upkeep_mult: "$cloned_cutholoid$$amenities_upkeep_for$"
  mod_ship_cutholoid_stability_produces_mult: "$cloned_cutholoid$$stability_produced_from$"
  mod_ship_cutholoid_stability_upkeep_mult: "$cloned_cutholoid$$stability_upkeep_for$"
+ 

@@ -137,7 +137,7 @@
  XENOIST_ENCLAVE_BORDERS_DESC: "Đảm bảo có các thành bang không gian bên trong lãnh thổ của ta để thúc đẩy giao lưu văn hóa. Điều này có thể làm hài lòng [Root.GetName]."
  XENOIST_NO_ENCLAVE_BORDERS: "$XENOIST_ENCLAVE_BORDERS$"
  XENOIST_ENCLAVE_BORDERS_NOMAD: "$XENOIST_ENCLAVE_BORDERS$"
- XENOIST_ENCLAVE_BORDERS_NOMAD_DESC: "Đảm bảo có các thành bang không gian ở gần Trạm Dừng của chúng ta để thúc đẩy giao lưu văn hóa. Điều này sẽ làm đẹp lòng [Root.GetName]."
+ XENOIST_ENCLAVE_BORDERS_NOMAD_DESC: "Đảm bảo có các thành bang không gian ở gần trạm tiếp vận của chúng ta để thúc đẩy giao lưu văn hóa. Điều này sẽ làm đẹp lòng [Root.GetName]."
  XENOIST_MULTICULTURALISM: "Xã Hội Đa Nguyên Văn Hóa"
  XENOIST_MULTICULTURALISM_DESC: "Dung nạp ít nhất §Y4§! giống loài khác nhau sống trong đế chế sẽ làm hài lòng [Root.GetName]."
  XENOIST_NO_MULTICULTURALISM: "$XENOIST_MULTICULTURALISM$"

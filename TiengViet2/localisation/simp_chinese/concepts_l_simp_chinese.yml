@@ -633,38 +633,38 @@
  concept_event_chain_desc: "§H$concept_event_chains$§! là hàng loạt những sự kiện có mối liên hệ đan xen lẫn nhau, chúng sẽ dần mở ra theo tiến trình của từng sự kiện, thường bắt nguồn từ quá trình thám hiểm, các £anomaly£['concept_anomalies'] hoặc thông qua các quyết sách từ phía đế chế.\n\nCác chuỗi sự kiện có thể hé lộ cho chúng ta những phát kiến khoa học, âm mưu chính trị, sự bí ẩn của thiên hà, và đôi khi còn mang đến các phần thưởng đầy quyền lực hay những mối đe dọa mang tính nguy hiểm tột độ. Việc đưa ra quyết định một cách thận trọng là vô cùng quan trọng, mỗi một lựa chọn đều có khả năng để lại tác động tới vận mệnh trong tương lai của đế chế. Chuỗi sự kiện sẽ được liệt kê bên trong thẻ $situation_log_view_tab_situation_log$ của £interface£['concept_situation_log_view']."
  #Số ít: ['concept_special_project'] hoặc §H$concept_special_project$§!
  #Số nhiều: ['concept_special_projects'] hoặc §H$concept_special_projects$§!
+ concept_situation: "Tình huống"
+ concept_situations: "Tình huống"
+ concept_situation_desc: "§H$concept_situations$§! là những vấn đề phức tạp, gồm nhiều giai đoạn mà đế chế có thể phải đối mặt.\n\nThông qua các cách xử lý khác nhau, ta có thể điều hướng tình huống để giành lấy phần thưởng lớn, hay chỉ đơn giản là giảm nhẹ tai họa. §HTình huống§! nằm ở thẻ $situation_log_view_tab_situation_log$ trong £interface£ ['concept_situation_log_view']."
+ #Số ít: ['concept_special_project'] hoặc §H$concept_special_project$§!
+ #Số nhiều: ['concept_special_projects'] hoặc §H$concept_special_projects$§!
  concept_special_project: "Dự án đặc biệt"
  concept_special_projects: "Dự án đặc biệt"
- concept_special_project_desc: "§H$concept_special_projects$§! là các sáng kiến ['concept_research'] mang tính độc đáo, cần có những nỗ lực chuyên biệt để hoàn thiện, việc này sẽ tạm thời đình chỉ bước tiến của một lĩnh vực khoa học nào đó.\n\nHoàn thành §H$concept_special_projects$§! có thể mang lại phần thưởng giá trị, đây là một mảnh ghép then chốt đối với công cuộc thám hiểm và bành trướng."
+ concept_special_project_desc: "§H$concept_special_projects$§! là những đề xuất ['concept_research'] độc đáo, đòi hỏi nỗ lực chuyên biệt để hoàn thành, khiến tiến độ ở một lĩnh vực khoa học bị tạm ngưng.\n\nHoàn thành §H$concept_special_projects$§! có thể mang lại phần thưởng lớn, là một phần quan trọng trong việc khám phá và mở rộng."
  #Số ít: ['concept_milestone'] hoặc §H$concept_milestone$§!
  #Số nhiều: ['concept_milestones'] hoặc §H$concept_milestones$§!
  concept_milestone: "Cột mốc"
  concept_milestones: "Cột mốc"
- concept_milestone_desc: "§H$concept_milestones$§! là những sự kiện cùng thành tựu trọng đại, đánh dấu các khoảnh khắc mang tính bước ngoặt trên chặng đường của đế chế, đây cũng là những ghi chép lịch sử đầy ý nghĩa về quá trình bành trướng, khám phá cũng như xung đột.\n\nViệc theo dõi các §H$concept_milestones$§! có thể cung cấp cho chúng ta một cái nhìn sâu sắc về lộ trình phát triển và các quyết sách chiến lược của đế chế. Có thể xem lại chúng bên trong mục §HDòng thời gian§! tại thẻ $situation_log_view_tab_timeline$ của £interface£['concept_situation_log_view']."
+ concept_milestone_desc: "§H$concept_milestones$§! là những sự kiện và thành tựu trọng đại, những thời khắc then chốt trong hành trình của đế chế, cũng như ghi chép lịch sử quan trọng về sự mở rộng, khám phá và xung đột.\n\nTheo dõi §H$concept_milestones$§! có thể mang lại cái nhìn sâu sắc về sự phát triển và quyết định chiến lược của đế chế. Có thể xem trong §HDòng thời gian§! tại thẻ $situation_log_view_tab_timeline$ của £interface£['concept_situation_log_view']."
  #Số ít: ['concept_empire_focus'] hoặc §H$concept_empire_focus$§!
  #Số nhiều: ['concept_empire_focuses'] hoặc §H$concept_empire_focuses$§!
  concept_empire_focus: "Trọng tâm đế chế"
  concept_empire_focuses: "Trọng tâm đế chế"
- concept_empire_focus_desc: "§H$concept_empire_focuses$§! đóng vai trò là những ưu tiên mang tính chiến lược cấp cao, có tác dụng dẫn dắt đường lối phát triển và các quyết sách của đế chế.\n\nĐế chế có khả năng theo đuổi nhiều trọng tâm đa dạng khác nhau, ví dụ như §HKhám phá§! những nền khoa học tân tiến và các phát kiến mới, §HChinh phạt§! nhằm giành lấy vị thế thống trị về mặt quân sự, hay là §HPhát triển§! khả năng tăng trưởng kinh tế và ngoại giao. Việc hoàn thành các §HNhiệm vụ trọng tâm§! sẽ thúc đẩy trọng tâm tương ứng, đồng thời mang đến thêm những lựa chọn ['concept_technologies'] mới.\n\nCó thể xem qua các nhiệm vụ và trọng tâm tại thẻ $situation_log_view_tab_timeline$ của £interface£['concept_situation_log_view']."
+ concept_empire_focus_desc: "§H$concept_empire_focuses$§! đại diện cho các ưu tiên chiến lược cấp cao định hướng sự phát triển và quyết định của đế chế.\n\nĐế chế có thể theo đuổi các trọng tâm khác nhau, ví dụ như §HKhám phá§! khoa học và phát kiến tiên tiến, §HChinh phạt§! để giành ưu thế quân sự, hay §HPhát triển§! tăng trưởng kinh tế và ngoại giao. Hoàn thành §HNhiệm vụ trọng tâm§! sẽ thúc đẩy trọng tâm tương ứng, đồng thời mang đến các lựa chọn ['concept_technologies'] mới.\n\nNhiệm vụ và trọng tâm có thể xem tại thẻ $situation_log_view_tab_timeline$ trong £interface£['concept_situation_log_view']."
  #Số ít: ['concept_scoreboard'] hoặc §H$concept_scoreboard$§!
  #Số nhiều: -
  concept_scoreboard: "Bảng điểm"
- concept_scoreboard_desc: "§H$concept_scoreboard$§! được dùng để đánh giá một cách sơ lược về vị thế của các thế lực đế chế trên vũ đài liên sao rộng lớn, nó phản ánh mọi thành tựu đạt được trong các lĩnh vực như công nghệ, kinh tế, quân sự cùng với tầm ảnh hưởng ngoại giao.\n\nMặc dù không mang tính quyết định, thế nhưng đây lại là một cuốn sổ tay ghi chép về tham vọng giữa các vì sao, chỉ cần liếc mắt qua là có thể nhận biết được rốt cuộc ai đang hưng thịnh phát triển, ai đang trải qua những tháng ngày bình lặng, và ai đang phải lay lắt chật vật để sinh tồn. Trong những hành lang yên tĩnh của chốn quyền lực, sự so sánh như thế này chưa bao giờ là không đi kèm với hậu quả."
+ concept_scoreboard_desc: "§H$concept_scoreboard$§! dùng để đánh giá sơ bộ vị thế của đế chế trên vũ đài tầm cỡ thiên hà, phản ánh những thành tựu về công nghệ, kinh tế, quân sự và ảnh hưởng ngoại giao.\n\nDù không mang tính quyết định, nhưng nó là một bảng tổng sắp những tham vọng trong không gian, giúp ta nhìn thấu ai đang trỗi dậy mạnh mẽ, ai đang sống qua ngày, và ai đang thoi thóp. Nơi hành lang quyền lực tĩnh lặng, những so sánh như vậy luôn đi kèm với hậu quả."
  #Số ít: ['concept_living_standard'] hoặc §H$concept_living_standard$§!
  #Số nhiều: ['concept_living_standards'] hoặc §H$concept_living_standards$§!
  concept_living_standard: "Mức sống"
  concept_living_standards: "Mức sống"
- concept_living_standard_desc: "§H$concept_living_standards$§! quyết định chất lượng cuộc sống được cung cấp cho những đối tượng £pop£['concept_pops'] khác biệt nằm trong đế chế, gây ảnh hưởng đến £happiness£['concept_happiness'] của họ cũng như tổng thể £political_power£['concept_political_power']. §H$concept_living_standards$§! chịu sự chi phối từ các ['concept_policies'] do chính phủ ban hành, và có thể sẽ khác biệt một cách một trời một vực khi được dựa trên các phân nhánh ['concept_species'], ['concept_ethics'] cùng những vấn đề được ưu tiên về kinh tế.\n\nMột mức sống sung túc hơn sẽ cần tới việc đầu tư nhiều tài nguyên hơn, trong khi một mức sống nghèo nàn hơn sẽ kéo giảm phí bảo trì, thế nhưng cái giá phải trả lại chính là £stability£['concept_stability'] cùng sự bất mãn từ phía lực lượng lao động. Có thể tiến hành thiết lập tại £interface£['concept_species_view']."
+ concept_living_standard_desc: "§H$concept_living_standards$§! quyết định chất lượng sống dành cho các £pop£['concept_pops'] khác nhau trong đế chế, ảnh hưởng đến £happiness£['concept_happiness'] của họ cũng như tổng thể £political_power£['concept_political_power']. §H$concept_living_standards$§! chịu ảnh hưởng từ ['concept_policies'] của chính quyền, có thể khác biệt rất lớn tùy theo phân loại ['concept_species'], ['concept_ethics'] và ưu tiên kinh tế.\n\nMức sống cao hơn đòi hỏi nhiều tài nguyên hơn, trong khi mức thấp hơn giúp giảm phí duy trì, nhưng bù lại phải trả giá bằng £stability£['concept_stability'] và mức độ hài lòng của người lao động. Có thể thiết lập trong £interface£['concept_species_view']."
  #Số ít: ['concept_celestial_object'] hoặc §H$concept_celestial_object$§!
  #Số nhiều: ['concept_celestial_objects'] hoặc §H$concept_celestial_objects$§!
  concept_celestial_object: "Thiên thể"
  concept_celestial_objects: "Thiên thể"
- concept_celestial_object_desc: "§H$concept_celestial_objects$§! là những vật thể có kích cỡ to lớn cư ngụ bên trong các £system£['concept_systems'], trong đó bao gồm cả ['concept_stars'], £planet£['concept_planets'], §HVệ tinh§!, và §HTiểu hành tinh§!."
- #Số ít: £district£ ['concept_city_district'] hoặc £district£ §H$concept_city_district$§!
- #Số nhiều: £district£ ['concept_city_districts'] hoặc £district£ §H$concept_city_districts$§!
- concept_celestial_object: "Vật thể thiên văn"
- concept_celestial_objects: "Các vật thể thiên văn"
- concept_celestial_object_desc: "§H$concept_celestial_objects$§! là các vật thể lớn bên trong £system£ ['concept_systems'], bao gồm £star£ ['concept_stars'], £planet£ ['concept_planets'], §Hvệ tinh§!, và §Htiểu hành tinh§!."
+ concept_celestial_object_desc: "§H$concept_celestial_objects$§! là những vật thể lớn trong £system£ ['concept_systems'], bao gồm £star£ ['concept_stars'], £planet£ ['concept_planets'], §Hvệ tinh§! và §Htiểu hành tinh§!."
  #Số ít: £district£ ['concept_city_district'] hoặc £district£ §H$concept_city_district$§!
  #Số nhiều: £district£ ['concept_city_districts'] hoặc £district£ §H$concept_city_districts$§!
  concept_city_district: "$district_city$"
@@ -740,25 +740,25 @@
  concept_subject_agreement: "Thỏa thuận chư hầu"
  concept_subject_agreements: "Thỏa thuận chư hầu"
  concept_subject_agreement_desc: "§H$concept_subject_agreements$§! mang tính chất quyết định đối với các điều khoản nhằm thiết lập nên một mối quan hệ lệ thuộc diễn ra giữa giới chủ nô cùng với bên chư hầu, nó định đoạt quyền tự trị, vấn đề bàn giao tài nguyên cũng như những trách nhiệm liên quan tới quân sự. Những thỏa thuận này có thể được sửa đổi để thắt chặt thêm sợi dây cương đối với phía chư hầu hay biến họ trở thành những người đồng minh mang tính chất bán tự trị.\n\nCó thể tiến hành thương lượng các §H$concept_subject_agreements$§! tại thẻ $contacts_view_tab_agreements$ của £interface£['concept_contacts_view']."
+ #Số ít: ['concept_subject'] hoặc §H$concept_subject$§!
+ #Số nhiều: ['concept_subjects'] hoặc §H$concept_subjects$§!
+ concept_subject: "Chư hầu"
+ concept_subjects: "Chư hầu"
+ concept_subject_desc: "§H$concept_subjects$§! là các nước phụ thuộc chịu sự cai quản của một đế chế bề trên. Những chư hầu này sở hữu chính quyền và hạm đội riêng, nhưng hành động bị ràng buộc bởi ['concept_subject_agreement'] đã ký kết với bên cai trị."
  #Số ít: ['concept_relic'] hoặc §H$concept_relic$§!
  #Số nhiều: ['concept_relics'] hoặc §H$concept_relics$§!
  concept_relic: "Di vật"
  concept_relics: "Di vật"
- concept_relic_desc: "§H$concept_relics$§! là các thánh tích đầy quyền năng từ những nền văn minh cổ đại, có khả năng trao cho người sở hữu những bùa lợi vô cùng độc đáo.\n\nCó thể tìm thấy chúng bên trong các £archaeology£['concept_archaeology_site'], thông qua việc hoàn thành các ['concept_event_chains'] nhất định, hoặc cướp đoạt từ tay những đế chế đã bị đánh bại khác.\n\nCác §H$concept_relics$§! cung cấp những hiệu ứng nội tại kéo dài liên tục, và có thể được kích hoạt để đạt được những hiệu ứng mang lại sức mạnh đáng gờm trong một khoảng thời gian hữu hạn. Có thể thực hiện quản lý tại thẻ $discoveries_view_tab_relics$ của £interface£['concept_discoveries_view']."
- concept_overlord_holding: "Cơ sở của bảo hộ quốc"
- concept_overlord_holdings: "Các cơ sở của bảo hộ quốc"
- concept_overlord_holding_desc: "§H$concept_overlord_holdings$§! là các công trình đặc biệt do nước bảo hộ dựng nên trên những hành tinh thuộc quyền trị vì của họ. Những công trình này dùng để phô trương uy thế, khai thác tài nguyên hoặc thu hút dịch vụ, mỗi loại đều góp phần củng cố uy quyền của nước bảo hộ theo nhiều cách khác nhau.\n\nSố lượng và chủng loại §H$concept_overlord_holdings$§! được quyết định bởi các điều khoản trong ['concept_subject_agreement'], còn hiệu quả thực tế sẽ phụ thuộc vào ['concept_civics'], ['concept_ethics'] cùng ưu tiên chiến lược của nước bảo hộ. Dù đem lại nhiều lợi ích cho bên trị vì, một số cơ sở có thể làm gia tăng sự phẫn uất từ phía nước thuộc địa, nhất là khi chúng bị xem là hành vi bóc quốt hay xâm phạm chủ quyền."
- #Số ít: ['concept_branch_office'] hoặc §H$concept_branch_office$§!
- #Số nhiều: ['concept_branch_offices'] hoặc §H$concept_branch_offices$§!
+ concept_relic_desc: "§H$concept_relics$§! là những cổ vật quyền năng từ các nền văn minh cổ xưa, mang lại lợi ích độc nhất cho người sở hữu.\n\nCó thể khai quật được chúng tại các £archaeology£['concept_archaeology_site'], nhận khi hoàn thành các ['concept_event_chains'] nhất định, hoặc đoạt lấy từ tay những đế chế bại trận.\n\n§H$concept_relics$§! mang lại hiệu ứng bị động vĩnh viễn và có thể kích hoạt để nhận thêm hiệu ứng cường hóa mạnh mẽ trong thời gian ngắn. Có thể quản lý tại thẻ $discoveries_view_tab_relics$ trong £interface£['concept_discoveries_view']."
  #Số ít: ['concept_astral_action'] hoặc §H$concept_astral_action$§!
  #Số nhiều: ['concept_astral_actions'] hoặc §H$concept_astral_actions$§!
- concept_astral_action: "Hành động tinh thể"
- concept_astral_actions: "Hành động tinh thể"
- concept_astral_action_desc: "§H$concept_astral_actions$§! là một dạng năng lực cho phép đế chế tạo ra những sự tương tác cùng với kết cấu không gian theo những phương pháp độc đáo, thường là bằng việc lợi dụng các hiện tượng tinh thể nhằm mục đích chiếm lấy những ưu thế mang tính chiến lược.\n\n§H$concept_astral_actions$§! thường sẽ được mở khóa thông qua việc thám hiểm các ['concept_astral_rifts']."
+ concept_astral_action: "Hành động cõi sao"
+ concept_astral_actions: "Hành động cõi sao"
+ concept_astral_action_desc: "§H$concept_astral_actions$§! là những năng lực cho phép đế chế tương tác với kết cấu không gian theo cách độc đáo, thường tận dụng các hiện tượng nơi cõi sao để giành ưu thế chiến lược.\n\n§H$concept_astral_actions$§! thường được mở khóa thông qua việc khám phá ['concept_astral_rifts']."
  #Số ít: ['concept_minor_artifact'] hoặc §H$concept_minor_artifact$§!
  #Số nhiều: ['concept_minor_artifacts'] hoặc §H$concept_minor_artifacts$§!
- concept_minor_artifact: "Cổ vật nhỏ"
- concept_minor_artifacts: "Cổ vật nhỏ"
+ concept_minor_artifact: "Cổ vật hiếm"
+ concept_minor_artifacts: "Cổ vật hiếm"
  concept_minor_artifact_desc: "§H$concept_minor_artifacts$§! là những tàn dư sót lại từ các nền văn minh cổ đại, thường được phát hiện thông qua quá trình tiến hành khai quật tại các £archaeology£['concept_archaeology_site']. Mặc dù không sở hữu quyền năng to lớn như các §H$concept_relics$§!, nhưng chúng cũng có rất nhiều công dụng, ví dụ như kích hoạt những bùa lợi độc đáo dành cho đế chế hoặc sử dụng để trao đổi lấy các tài nguyên có giá trị.\n\nCông dụng của các cổ vật này sẽ được quyết định dựa trên tiến trình công nghệ cũng như các chính sách của đế chế, có thể dùng chúng để làm phong phú thêm cho nền văn hóa, các phát kiến khoa học, và thậm chí là ứng dụng cả vào trong quân sự. Có thể quản lý tại £interface£['concept_discoveries_view']."
  #Số ít: ['concept_crisis'] hoặc §H$concept_crisis$§!
  #Số nhiều: -

@@ -237,7 +237,7 @@
  subject_cannot_expand_desc: "Chư hầu không thể mở rộng lãnh thổ."
  subject_can_expand_with_tithe: "Mở rộng Có Điều kiện"
  subject_can_expand_with_tithe_desc: "Chư hầu có thể mở rộng lãnh thổ, nhưng khi xây dựng trạm tiền đồn ở biên giới, họ phải nộp thêm cống nạp $r_influence$ cho Mẫu quốc."
- subject_can_expand_with_tithe_nomadic_desc: "Quốc gia phụ thuộc có thể mở rộng lãnh thổ của mình, nhưng khi xây dựng Trạm Dừng, bắt buộc phải nộp khoản cống nạp $r_influence$ cho đế chế bảo hộ."
+ subject_can_expand_with_tithe_nomadic_desc: "Quốc gia phụ thuộc có thể mở rộng lãnh thổ của mình, nhưng khi xây dựng trạm tiếp vận, bắt buộc phải nộp khoản cống nạp $r_influence$ cho đế chế bảo hộ."
  subject_can_expand: "Cho phép Mở rộng"
  subject_can_expand_desc: "Chư hầu có thể tự do mở rộng lãnh thổ."
  subject_sensors: "Cảm biến"

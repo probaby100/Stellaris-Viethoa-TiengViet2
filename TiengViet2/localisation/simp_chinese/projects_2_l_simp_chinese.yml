@@ -56,6 +56,7 @@
  WRECKED_FLEET_2_DESC: "Triển khai đội kỹ sư sửa chữa con tàu để đưa nó hoạt động trở lại."
  MANUFACTORY_PROJECT: "Khôi Phục Mỏ Khoáng Sản"
  MANUFACTORY_PROJECT_DESC: "Triển khai đội kỹ sư sửa chữa trạm khai thác quỹ đạo cổ đại để đưa nó hoạt động trở lại."
+ MANUFACTORY_PROJECT_FLEET_REQUIREMENT: "Có $COUNT$/$REQUIRED$ hạm đội quân sự có chỉ huy trên quỹ đạo."
  ### Sự Kiện Thuộc Địa
  HELPFUL_DRONES_1_PROJECT: "Vật Bị Bỏ Quên"
  HELPFUL_DRONES_1_PROJECT_DESC: "Một tín hiệu kỳ lạ đang phát ra từ mặt trăng. Có thể chẳng là gì cả.\n\nNhưng cũng có thể là một thứ gì đó quan trọng. Tận dụng con tàu trên quỹ đạo làm trạm chuyển tiếp liên lạc, các nhà khoa học thuộc địa đã quét kỹ bề mặt mặt trăng để truy tìm chân tướng sự việc."
