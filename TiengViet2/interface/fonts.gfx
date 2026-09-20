@@ -26,7 +26,7 @@
  		V = { 76 138 113 }	# V = Xanh lục thẫm, dùng cho văn bản sự kiện.
  		g = { 128 128 128 }	# g = Xám (Grey).
  		_ = { 255 0 255 }	# _ Đỏ tươi giữ chỗ, dùng cho các đoạn văn bản giữ chỗ.
- 		U = { 204 179 255 } # U = Tím nhạt (Mauve), dùng cho Tab Khủng hoảng
+ 		U = { 204 179 255 } # U = Tím nhạt (Mauve), dùng cho thẻ khủng hoảng
  		
  		# Màu Độ hiếm Đặc điểm
  		c = { 60 208 146 }

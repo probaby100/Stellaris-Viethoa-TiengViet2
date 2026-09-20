@@ -381,7 +381,7 @@
  STINGER_FIRE_RATE_1_DESC: "Một chuỗi các lỗ tản nhiệt mọc trên lồng ngực của phi thuyền này có khả năng xả khí thải nhiệt độ cực cao ra ngoài không gian, giúp gia tăng tốc độ bắn của vũ khí."
  STINGER_FIRE_RATE_2: "Lỗ Thoát Hạt Vi Mô Dễ Nổ"
  STINGER_FIRE_RATE_2_DESC: "Việc sử dụng các hạt vi mô dễ nổ làm môi trường trao đổi nhiệt đòi hỏi phải có một chất nền tế bào đặc thù để ngăn chặn những vụ nổ ngoài ý muốn."
- # Áo Giáp/Lớp Mai
+ # lá chắn/Lớp Mai
  tech_bio_ship_armor_1: "$tech_ship_armor_1$"
  BIO_ARMOR_1: "$NANOCOMPOSITE_CARAPACE$"
  BIO_ARMOR_1_DESC: "Lớp giáp sinh học tiên tiến này kết hợp mô hữu cơ bền bỉ với vật liệu có cấu trúc nano, tạo thành một lớp vỏ sống có khả năng chống chọi trước những vụ va chạm cực mạnh. Lớp vỏ này có khả năng tự động thích ứng với sát thương, tái tạo nhanh chóng, mang đến sự bảo vệ vô song cho phi thuyền sinh học."
@@ -430,7 +430,7 @@
  LARGE_BIO_ARCHAEO_ARMOR: "$BIO_ARCHAEO_ARMOR$ Cỡ Lớn"
  tt_LARGE_BIO_ARCHAEO_AP: "[GetArchaeoengineersEffectLargeBioArmor]"
  tt_LARGE_BIO_ARCHAEO: "§Y$ap_archaeoengineers$§! mang lại:\n$t$Điểm Chịu Đựng của Khiên: §G+360§!\n\n$bio_ship_armor_regen_l_3_tt$"
- bio_ship_armor_regen_tt_header: "Ở mức dưới $@bio_ship_armor_regen_threshold|Y%$ Áo Giáp:$TABBED_NEW_LINE$Tái Tạo Áo Giáp Hàng Ngày:"
+ bio_ship_armor_regen_tt_header: "Ở mức dưới $@bio_ship_armor_regen_threshold|Y%$ lá chắn:$TABBED_NEW_LINE$Tái Tạo lá chắn Hàng Ngày:"
  bio_ship_armor_regen_s_1_tt: "$bio_ship_armor_regen_tt_header$ §G+$@bio_ship_armor_regen_s_1$§!"
  bio_ship_armor_regen_m_1_tt: "$bio_ship_armor_regen_tt_header$ §G+$@bio_ship_armor_regen_m_1$§!"
  bio_ship_armor_regen_l_1_tt: "$bio_ship_armor_regen_tt_header$ §G+$@bio_ship_armor_regen_l_1$§!"

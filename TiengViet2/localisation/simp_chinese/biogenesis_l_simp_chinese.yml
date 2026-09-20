@@ -2587,7 +2587,7 @@
  biocrisis.220.desc: "$biocrisis.210.desc.base$Tăng cường phòng thủ sinh học sẽ cho phép chúng ta chịu đựng hỏa lực liên tục của kẻ thù mà không phải chịu những tổn thương phiền toái."
  biocrisis.220.a: "Chúng ta có thể làm cho lớp da dày hơn nữa."
  biocrisis.220.a.tt: "§Y$behemoth_04$§! của chúng ta nhận được $@behemoth_1_hull_add|0+*$ $HITPOINTS$."
- biocrisis.220.b: "Áo giáp chiến đấu của chúng ta sẽ trở nên cứng cáp hơn."
+ biocrisis.220.b: "Lá chắn chiến đấu của chúng ta sẽ trở nên cứng cáp hơn."
  biocrisis.220.b.tt: "§Y$behemoth_04$§! của chúng ta nhận được $@behemoth_1_armor_add|0+*$ $MOD_SHIP_ARMOR_ADD$ và $@behemoth_1_armor_hardening_add|%0+$ $MOD_SHIP_ARMOR_HARDENING_ADD$."
  biocrisis.220.c: "Nếu chúng ta tăng cường rào chắn của mình, sẽ không ai có thể chạm vào chúng ta."
  biocrisis.220.c.tt: "§Y$behemoth_04$§! của chúng ta nhận được $@behemoth_1_shield_add|0*+$ $MOD_SHIP_SHIELD_ADD$, $@behemoth_1_shield_regen_add_perc|%1+$ $MOD_SHIP_SHIELD_REGEN_ADD_PERC$ và $@behemoth_1_shield_hardening_add|%0+$ $MOD_SHIP_SHIELD_HARDENING_ADD$."

@@ -417,8 +417,8 @@
  MESSAGE_PLANET_RESOURCE_OBTAINED: "$MESSAGE_PLANET_RESOURCE_OBTAINED_KEY$"
  MESSAGE_PLANET_RESOURCE_OBTAINED_DESC: "§Y$THIEF$§! đã đánh cắp được các nguồn tài nguyên sau đây từ trên §Y$PLANET$§! của §Y$VICTIM$§!:\n$RESOURCES$"
  MESSAGE_PLANET_RESOURCE_OBTAINED_TITLE: "Tài Nguyên Đã Được Thu Về Tay Rồi!"
- BUDGET_CATEGORY_OPERATIONS_BY_US: "Bị đánh cắp: $VALUE|Y$"
- BUDGET_CATEGORY_OPERATIONS_AGAINST_US: "Bị đánh cắp: $VALUE|Y$"
+ BUDGET_CATEGORY_OPERATIONS_BY_US: "Đã thu thập: $VALUE|Y$"
+ BUDGET_CATEGORY_OPERATIONS_AGAINST_US: "Đã bị ăn cắp: $VALUE|Y$"
  # AI lý do từ chối tham gia hoặc từ chối rời khỏi một cuộc chiến
  REFUSE_JOIN_FALLEN_EMPIRE: "§R\"Những cuộc tranh cãi của những kẻ trẻ tuổi.\"§!"
  REFUSE_JOIN_OFFENSIVE_WAR: "§R\"Chúng tôi luôn tin tưởng và phục tùng những đường lối của sự hòa bình.\"§!"

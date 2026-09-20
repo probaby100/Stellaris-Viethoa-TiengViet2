@@ -1643,7 +1643,7 @@
  FE_AGGRESSIVENESS_TOOLTIP: "§HĐộ hiếu chiến của máy§!\nCài đặt này quyết định khả năng máy khai chiến với kẻ thù, cũng như tổng số cuộc chiến nổ ra trong quá trình mở rộng. Bất kể độ hiếu chiến thế nào, máy sẽ chỉ tuyên chiến nếu thái độ với mục tiêu phù hợp."
  FE_DIFFICULTY: "Độ khó"
  DIFFICULTY_ADJUSTED_AI_MODIFIERS: "Điều chỉnh ưu thế của máy theo độ khó"
- DIFFICULTY_ADJUSTED_AI_MODIFIERS_TOOLTIP: "§H$DIFFICULTY_ADJUSTED_AI_MODIFIERS$§!\nƯu thế sản lượng tài nguyên trên toàn đế chế của máy sẽ được nhân với điểm cộng §YĐộ khó§!. Ví dụ, một công nghệ tăng 20% sản lượng £minerals£$minerals$ cho [miner.GetIcon] thợ mỏ, đối với máy ở cấp ['concept_grand_admiral'], khi bật tùy chọn này sẽ thành 40%.\n\n§PCảnh báo:§! Điều này sẽ làm kinh tế của máy cuối game mạnh lên rất nhiều."
+ DIFFICULTY_ADJUSTED_AI_MODIFIERS_TOOLTIP: "§H$DIFFICULTY_ADJUSTED_AI_MODIFIERS$§!\nCác hệ số điều chỉnh sản lượng tài nguyên trên quy mô toàn đế chế của các đế chế AI sẽ được nhân với mức thưởng theo §Yđộ khó§!. Ví dụ: một công nghệ tăng +20% sản lượng £minerals£$minerals$ cho việc làm £job_miner£thợ mỏ, thì đối với đế chế AI ở mức ['concept_grand_admiral'], việc kích hoạt tùy chọn này sẽ nâng thành mức điều chỉnh +40%.\n\n§PCảnh báo:§! Điều này sẽ khiến nền kinh tế của AI vào giai đoạn cuối trận trở nên mạnh hơn đáng kể."
  DIFFICULTY_CIVILIAN_DESC: "Người chơi nhận được điểm cộng khổng lồ về kinh tế, nghiên cứu và sức chứa hải quân, đồng thời có lợi thế khi lần đầu tiếp xúc. Các đế chế máy hiếu chiến và dễ gây rối sẽ bị tắt."
  DIFFICULTY_CADET_DESC: "Người chơi nhận điểm cộng về kinh tế, nghiên cứu và sức chứa hải quân"
  DIFFICULTY_ENSIGN_DESC: "Máy không có lợi thế nào về kinh tế, nghiên cứu hay quân sự so với người chơi"
