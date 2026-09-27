@@ -4416,7 +4416,7 @@
  shroud.6830.desc: "Cuộc chiến với §HHư Cảnh§! và sự lạm dụng tâm linh đã khiến dân tộc ta trở nên mạnh mẽ hơn, mục tiêu của chúng ta cũng rõ ràng hơn. Sự ra đời của §H$gov_mindwarden_enclave$§! đầu tiên đánh dấu một kỷ nguyên mới của sự phục hồi và kháng cự.\n\nTrên toàn cõi thiên hà, tâm trí sẽ không còn bị tâm linh xâm phạm, mọi hành tinh sẽ không còn phải chịu đựng sự đày đọa của sức mạnh Hư Cảnh.\n\nĐây chính là thời đại của $MINDWARDEN_plural$."
  shroud.6830.a: "Hành trình của chúng ta mới chỉ bắt đầu."
  shroud.shared_enclave_investement: "Khoản đầu tư ban đầu của chúng ta sẽ được dùng để xây dựng một trạm không gian; bù lại, chúng ta sẽ nhận được cổ tức từ lợi nhuận trong tương lai của nó. Sự tự do hành động của họ sẽ tạo điều kiện thuận lợi cho việc sử dụng rộng rãi các cơ sở như vậy.\n\nTất nhiên, chúng ta cũng có thể sử dụng dịch vụ của họ - với mức giá ưu đãi."
- shroud.6841.name: "Mindwarden Enclave trả cổ tức"
+ shroud.6841.name: "Hội Trấn Áp Tâm Trí trả cổ tức"
  BEGINS_EVENT_CHAIN: "Bắt đầu chuỗi sự kiện:"
  ENDS_EVENT_CHAIN: "Kết thúc chuỗi sự kiện:"
  the_exiled_become_hostile: "§H[exiled_country.GetName]§! chuyển sang thái độ thù địch với chúng ta."

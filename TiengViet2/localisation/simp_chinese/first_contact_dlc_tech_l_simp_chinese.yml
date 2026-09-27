@@ -12,7 +12,7 @@
  tech_cloaking_dark_matter: "Trường Tàng Hình Vật Chất Tối"
  tech_cloaking_dark_matter_desc: "Thiết bị này sử dụng vật chất tối để bóp méo không thời gian xung quanh con tàu, khiến nó cực kỳ khó bị phát hiện."
  tech_cloaking_psi: "Máy Phát Trường Pha Tâm Linh"
- tech_cloaking_psi_desc: "Máy phát trường pha tâm linh có thể tập trung tiềm năng tâm linh của phi hành đoàn, qua đó đưa một phần con tàu lặn vào cõi Shroud. Điều này sẽ khiến con tàu chỉ có thể bị phát hiện bởi những mảng cảm biến tối tân nhất, mặc dù trong hoàn cảnh đó, tốt nhất là không nên nhắc đến những gì phi hành đoàn buộc phải đối mặt."
+ tech_cloaking_psi_desc: "Máy phát trường pha tâm linh có thể tập trung tiềm năng tâm linh của phi hành đoàn, qua đó đưa một phần con tàu lặn vào Cõi Màn Sương. Điều này sẽ khiến con tàu chỉ có thể bị phát hiện bởi những mảng cảm biến tối tân nhất, mặc dù trong hoàn cảnh đó, tốt nhất là không nên nhắc đến những gì phi hành đoàn buộc phải đối mặt."
  tech_detection_array: "Mảng Phát Hiện"
  tech_detection_array_desc: "$sm_detection_array_desc$"
  tech_dark_matter_detection: "Phát Hiện Vật Chất Tối"

@@ -409,7 +409,7 @@
  #Built first Shroud Beacon (non-Teachers origin)
  enclave.4200.name: "Hải Đăng Dẫn Tới Hư Không"
  enclave.4200.desc: "Sau một khoảng thời gian dài vật lộn trong bóng tối, tấm rèm của Hư Không cuối cùng cũng được vén lên. Mặc dù các nhà khoa học của chúng ta vẫn chưa hiểu rõ về nguyên lý vận hành kỳ lạ của Ngọn Hải Đăng Hư Không, nhưng hệ thống vật lý của nó dường như bị vướng mắc với tâm linh, nó hoạt động gần giống như một sinh vật sống. Đường hầm mà nó tạo ra có vẻ không giống một lộ trình mà giống một lối tắt hơn, cung cấp cho phi thuyền của chúng ta một lối tắt siêu chiều để đi qua Hư Không. Khám phá các vì sao giờ đây sẽ trở nên nhanh chóng hơn... và bí ẩn hơn rất nhiều."
- #Teachers of the Shroud origin - Crisis Events
+ #Teachers of Cõi Màn Sương origin - Crisis Events
  enclave.4240.name: "Sự Thức Tỉnh Cuối Cùng"
  enclave.4240.desc: "Hỡi các học trò, Hư Không đã đưa ra lời cảnh báo. Một cơn khủng hoảng khổng lồ đang đến gần, toàn bộ thiên hà đang đứng bên bờ vực hủy diệt. Tiên tri của chúng ta cho thấy, sức mạnh của chính chúng ta không thể đương cự với mối đe dọa sắp ập đến. Thay vì chịu trận và bị diệt vong, chúng ta sẽ truyền thụ cho các ngươi bài học cuối cùng: Mọi giấc mộng rồi cũng sẽ có lúc tàn. Đã đến lúc chúng ta phải rời khỏi thế giới này. Mặc dù Hư Không tối tăm và khó lường, chúng ta cuối cùng cũng sẽ thăng hoa đến một chiều không gian mới, một thế giới mới để tiếp tục gieo rắc giáo lý của mình. Chúng ta sẽ rời khỏi thiên hà này và giao phó vận mệnh của nó cho các ngươi. Hy vọng những bài học trước đây của chúng ta có thể hướng dẫn các ngươi khi cần thiết."
  enclave.4240.a: "Nguyện Hư Không sẽ ở cùng các người."
@@ -520,8 +520,8 @@
  enclave.5082.name: "Giao cảm ngoại cảm"
  enclave.5082.desc: "Sự việc trên [Root.GetName] đã có những diễn biến kỳ lạ: sau khi tên thầy pháp lưu vong thực hiện cái gọi là 'thăng thiên', cư dân của chúng ta báo cáo rằng họ đã trải qua một trạng thái chuyển đổi nhận thức. Những người này tiếp tục tuân theo các nghi thức mà thầy pháp tôn sùng, và giờ đây đã có thể tiến vào trạng thái giao cảm ngoại cảm. Trạng thái này mang lại niềm hân hoan và sự thanh bình to lớn giữa các cư dân, tạo ra những ảnh hưởng sâu sắc."
  # Các modifier tĩnh
- rogue_shaman_00: "Thầy pháp lang thang" # giảm ổn định; tăng thiện cảm từ Enclave Shroudwalker
- rogue_shaman_01: "Khách quý" # tăng ổn định; giảm thiện cảm từ Enclave Shroudwalker
+ rogue_shaman_00: "Thầy pháp lang thang" # giảm ổn định; tăng thiện cảm từ Người Du Hành Màn Sương
+ rogue_shaman_01: "Khách quý" # tăng ổn định; giảm thiện cảm từ Người Du Hành Màn Sương
  rogue_shaman_02: "Đàn áp tôn giáo" # giảm ổn định
  rogue_shaman_03: "Tổng hạnh phúc quốc gia" # tăng hạnh phúc; giảm sản xuất
  rogue_shaman_04: "Giao cảm ngoại cảm"

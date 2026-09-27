@@ -169,7 +169,7 @@
  concept_cave_dweller_desc: "—$MOD_HABITABILITY_FLOOR_ADD$: §G50%§!\n—$mod_pop_miner_bonus_workforce_mult$: §G+15%§!\n—$MOD_SPECIES_EMPIRE_SIZE_MULT$: §R+10%§!\n—$MOD_BIO_LOGISTIC_GROWTH_MULT$: §R-10%§!\n\n§L$trait_cave_dweller_desc$§!"
  concept_robot_cave_dweller_desc: "—$MOD_HABITABILITY_FLOOR_ADD$: §G50%§!\n—$mod_pop_miner_bonus_workforce_mult$: §G+15%§!\n—$MOD_SPECIES_EMPIRE_SIZE_MULT$: §R+10%§!\n—$MOD_POP_ASSEMBLY_SPEED$: §R-10%§!\n\n§L$trait_robot_cave_dweller_desc$§!"
  mod_mining_district_housing_add: "$MOD_PLANET_HOUSING_ADD$ tạo ra từ quận khai khoáng"
- #Teachers of the Shroud
+ #Teachers of Cõi Màn Sương
  concept_latent_psionic: "$trait_latent_psionic$"
  concept_latent_psionic_desc: "Hiệu suất công việc của ['concept_intelligent']: §G+10%§!\n—$mod_pop_bureaucrat_bonus_workforce_mult$: §G+5%§!\n\n§L$trait_latent_psionic_desc$§!"
  concept_psionic_ascension: "Thăng hoa Tâm linh"

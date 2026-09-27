@@ -299,7 +299,7 @@
  DIMENSIONAL_LOCK: "Khóa Đa chiều"
  DIMENSIONAL_LOCKS: "Khóa Đa chiều"
  action_dimensional_lock: "$DIMENSIONAL_LOCK$"
- action_dimensional_lock_tooltip: "Cho phép tàu khoa học cài đặt một $DIMENSIONAL_LOCK$ tại Lỗ sâu, L-Cổng hoặc Đường hầm Shroud. Một khi đã bị khóa, chỉ những hạm đội được bạn cho phép mới có thể đi qua. Các $DIMENSIONAL_LOCKS$ sẽ duy trì trong §Y10§! năm."
+ action_dimensional_lock_tooltip: "Cho phép tàu khoa học cài đặt một $DIMENSIONAL_LOCK$ tại Lỗ sâu, L-Cổng hoặc Đường hầm Cõi Màn Sương. Một khi đã bị khóa, chỉ những hạm đội được bạn cho phép mới có thể đi qua. Các $DIMENSIONAL_LOCKS$ sẽ duy trì trong §Y10§! năm."
  action_dimensional_lock_desc: "Bằng cách điều chỉnh tàu của chúng ta để có tính chất lượng tử đồng bộ hoàn toàn với một vùng không gian gấp khúc, chúng ta có thể làm cho tần số của nó song song với chúng ta. Tuy nhiên, sự đồng bộ này không phải là mãi mãi. Những kẽ hở kiểu này sẽ dần dần trở lại khuynh hướng tự nhiên của chúng."
  action_dimensional_lock_cooldown_tooltip: "\n$DIMENSIONAL_LOCK$ đang trong thời gian hồi chiêu"
  FLEETORDER_LOCK_BYPASS: "Lắp đặt $DIMENSIONAL_LOCK$ vào $BYPASS|H$ trong hệ sao $SYSTEM|Y$"

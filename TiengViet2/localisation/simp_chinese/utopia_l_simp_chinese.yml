@@ -203,7 +203,7 @@
  trait_self_modified: "Tự Biến đổi"
  trait_self_modified_desc: "§LCác cá thể của phân loài này đã tự ý sửa đổi trình tự gen của bản thân với hy vọng mang lại cho chính họ một lợi thế nhất định nào đó.§!"
  leader_trait_shroud_age: "Kéo dài Tuổi thọ"
- leader_trait_shroud_age_desc: "Nguồn sức mạnh linh năng mạnh mẽ từ thực tại Shroud đã làm chậm tiến trình [GetAgingLoc] tự nhiên của [GetLeaderLoc] này."
+ leader_trait_shroud_age_desc: "Nguồn sức mạnh linh năng mạnh mẽ từ Cõi Màn Sương đã làm chậm tiến trình [GetAgingLoc] tự nhiên của [GetLeaderLoc] này."
  leader_trait_reformer: "Nhà Cải cách"
  leader_trait_reformer_desc: "Vị lãnh đạo này là một nhà cải cách, tận tâm xây dựng một xã hội tương lai tốt đẹp hơn."
  leader_trait_ruler_hive_mind: "[owner.GetRulerTitle]"
