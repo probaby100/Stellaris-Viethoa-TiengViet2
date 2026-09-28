@@ -476,6 +476,7 @@
  NAME_Central_Crystal_Species: "Xe-ay-a-ki"
  NAME_Central_Crystal_Enclave: "Hạm Đội Ngoại Vi"
  NAME_Central_Crystal_Station: "Trạm Tinh Thể"
+ RT_CENTRAL_CRYSTAL_COMMANDER: "Viên chỉ huy"
  #Opinions
  opinion_small_boon_crystal_empire: "Đế chế hào hiệp"
  #Triggered Loc

@@ -75,6 +75,7 @@
  INTEL_INFO_intel_economy_systems_high: "Tình báo Mức cao về Hệ sao"
  INTEL_INFO_intel_economy_systems_low: "Tình báo Mức thấp về Hệ sao"
  INTEL_INFO_intel_economy_systems_med: "Tình báo Mức trung về Hệ sao"
+ INTEL_INFO_intel_economy_deposits: "Tình Báo Mỏ Tài Nguyên"
  INTEL_INFO_intel_tech_num_category: "Số lượng Công nghệ đã Nghiên cứu"
  INTEL_INFO_intel_tech_current_research: "Công nghệ đang Nghiên cứu"
  INTEL_INFO_intel_tech_scientists: "Sĩ quan Khoa học đang làm việc"

@@ -1,7 +1,7 @@
 #H = { 253 169 38 }	Màu cam cho tooltip
  #color = 0xffffffff	#định dạng là 0xaarrggbb
  #G = { 41 225 38 255 } #định dạng là đỏ lục lam alpha
- #textcolors = {} có hiệu lực toàn cầu cho mọi phông chữ. thay đổi ở một phông sẽ áp dụng cho tất cả các phông khác
+ #textcolors = {} có hiệu lực toàn bộ trò chơi cho mọi phông chữ. thay đổi ở một phông sẽ áp dụng cho tất cả các phông khác
  
  bitmapfonts = {
  	

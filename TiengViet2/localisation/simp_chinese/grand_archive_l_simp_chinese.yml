@@ -2130,6 +2130,7 @@
  ACTIVATE_GATEWAY_PROJECT_TT: "§HKích hoạt Cổng sao§!"
  ACTIVATE_GATEWAY_PROJECT_NOMADS: "$ACTIVATE_GATEWAY_PROJECT$"
  ACTIVATE_GATEWAY_PROJECT_NOMADS_DESC: "$ACTIVATE_GATEWAY_PROJECT_DESC$"
+ BYPASS_GATEWAY_NESS: "$BYPASS_GATEWAY$"
  ENTRY_BYPASS_GATEWAY_NESS: "Tiến vào $BYPASS_TYPE$"
  grand_archive.8400.name: "Kho Báu Đây Rồi, Yoho!"
  grand_archive.8400.desc: "Sau khi kích hoạt Cổng Sao ở điểm cuối của con đường trên §Y$celestial_chart$§!, chúng ta đã phát hiện ra hệ sao [ness_treasure_system.GetName]. Sự phân bố của các thiên thể hoàn toàn trùng khớp với bản phác thảo mà chúng ta tìm thấy trong nhật ký hàng hải của §Y$NAME_CaptainNess$§!.\n\nChuyến hành trình dài đằng đẵng của chúng ta sắp khép lại."

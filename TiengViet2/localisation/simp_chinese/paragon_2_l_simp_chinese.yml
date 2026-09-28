@@ -51,6 +51,7 @@
  DEMAND_FULFILLED: "£dot_green£ $NAME$: $VALUE|0+$"
  DEMAND_UNFULFILLED: "£dot_red£ $NAME$: $VALUE|0+$"
  COUNCIL_FACTION_LEGITIMACY: "$VALUE|0%Y$"
+ default_leader_greeting: "Chặng đường của chúng ta là biển sao bao la."
  hive_greeting: "“Một tâm trí, vạn thân xác, bao trùm lấy sự tĩnh lặng của vũ trụ.”"
  machine_greeting: "“Phân tích ban đầu - Hoàn tất, hệ thống - Đang chạy. Đơn vị đã sẵn sàng nhận lệnh.”"
  wilderness_greeting: "“Mầm non vươn mình, ý chí dẫn lối. Cùng nhau tiến bước, sinh sôi nảy nở.”"

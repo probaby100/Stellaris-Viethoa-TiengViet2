@@ -38,6 +38,7 @@
  decision_open_shroud_rift_desc: "Bằng cách kết nối với vết nứt gần thế giới quê hương, thuật toán này kéo dài ảnh hưởng của Hư Không thêm một femto giây, cho phép nó biến đổi cấu trúc vật lý của hành tinh. Hậu quả là không thể đoán trước."
  decision_open_shroud_rift_condition_tt: "$TRIGGER_FAIL$Phải có §Y$d_shroud_rift_deposit$§! và các đặc điểm hành tinh không phải là £blocker£§HChướng ngại vật§!."
  decision_open_shroud_rift_effect_tt: "Loại bỏ ngẫu nhiên một đặc điểm hành tinh."
+ decision_open_shroud_rift_consumed_tt: "§R[GetShroudRiftConsumeChance]%§! khả năng Cõi Màn Sương sẽ nuốt chửng hành tinh này, biến nó thành §R$pc_shrouded$§!."
  decision_open_shroud_rift_max_uses_common: "Số lượng §YKhu vực Hư Không hóa§! trên hành tinh phải ít hơn $@max_open_shroud_rift_uses|0$"
  decision_open_shroud_rift_max_uses_fail: "$TRIGGER_FAIL$$decision_open_shroud_rift_max_uses_common$"
  decision_open_shroud_rift_max_uses: "$TRIGGER_PASS$$decision_open_shroud_rift_max_uses_common$ (Hiện tại: §Y[GetOpenShroudRiftCurrentUses]§!)"

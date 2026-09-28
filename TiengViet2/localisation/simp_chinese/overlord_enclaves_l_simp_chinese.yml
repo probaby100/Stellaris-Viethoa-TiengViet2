@@ -64,6 +64,8 @@
  enclave.205.a: "Chúng ta định §Ythuê một hạm đội§!."
  enclave.205.tooltip.a: "[event_target:current_client.GetName] đang thuê hạm đội của chúng tôi."
  enclave.205.tooltip.b: "Không có hạm đội cho thuê."
+ enclave.205.tooltip.aa: "Không có đế quốc nào khác đang cho thuê hạm đội của họ."
+ enclave.205.tooltip.bb: "Họ có một hạm đội §Ysẵn sàng chiến đấu§!."
  enclave.205.b: "Chúng ta định §Yquản lý§! hạm đội đã thuê."
  enclave.205.c: "Chúng ta muốn tuyển mộ §Ylực lượng đồn trú đánh thuê§!."
  enclave.205.d: "Chúng ta muốn giúp các anh triển khai một §Yhạm đội quy mô lớn hơn§!."
@@ -389,6 +391,8 @@
  SHROUD_TUNNEL_GALACTIC_DESC: "Hệ sao này chứa một §YĐường Hầm Hư Không§!"
  BYPASS_SHROUD_TUNNEL: "$SHROUD_TUNNEL_GALACTIC$"
  BYPASS_NAME_SHROUD_TUNNEL: "Đường Hầm Hư Không $SYSTEM$"
+ ENTRY_BYPASS_SHROUD_TUNNEL: "Tiến vào $BYPASS_TYPE$"
+ EXIT_BYPASS_SHROUD_TUNNEL: "Rời khỏi $BYPASS_TYPE$"
  ################################
  #DIVINATION (SITUATION) EVENTS
  ################################

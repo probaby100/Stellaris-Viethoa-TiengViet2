@@ -22,6 +22,8 @@
  d_progenitor_desc: "Tổ kén của Thủy tổ, nơi mọi thế hệ sau được sinh ra."
  d_progenitor_empty: "Tổ kén Thủy tổ trống rỗng"
  d_progenitor_empty_desc: "Thủy tổ từng vô cùng hùng mạnh đã bị khuất phục, chỉ để lại một bầy đàn chìm trong hỗn loạn."
+ d_splinter_hive_link: "Liên kết cộng sinh nhánh bầy"
+ d_splinter_hive_link_desc: "Chùm sợi tơ thần kinh vươn tới từ một nhánh bầy tách rời nơi thế giới lệ thuộc. Những cá thể thợ mới sinh ra từ khối sinh chất xa xôi kia sẽ men theo đó mà tìm về thế giới này."
  decision_grow_progenitor: "Nuôi dưỡng một Thủy tổ mới"
  decision_grow_progenitor_desc: "Đứa con lớn nhất trong số các thế hệ sau có thể kế thừa di sản của Thủy tổ đã khuất."
  missing_progenitor_modifier: "Thiếu vắng Thủy tổ"

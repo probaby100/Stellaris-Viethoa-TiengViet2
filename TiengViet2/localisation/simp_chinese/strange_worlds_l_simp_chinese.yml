@@ -237,6 +237,8 @@
  strange_worlds.2030.ct: "§Y[Root.GetName]§! mất 100 £pop£ Pop, và cứ thêm mỗi $@macrophage_kill_pop_every_x$ £pop£ thì mất thêm 100 £pop£ Pop\nTất cả £pop£ Pop hữu cơ trên §Y[Root.GetName]§! nhận đặc điểm §YĐột Biến Gelebor§! và sinh lý bị thay đổi mạnh mẽ."
  site_anomalous_cube: "Khối Lập Phương Bất Thường"
  anomalous_cube_desc: "Một khối lập phương kim loại khổng lồ đã được phát hiện trên §Y[Planet.GetName]§!. Bề mặt hoàn hảo không một vết xước của nó ám chỉ một khả năng công nghệ tiên tiến, nhưng chúng ta vẫn chưa thể suy đoán được nguồn gốc hay chức năng của nó. Các cuộc khai quật khảo cổ có thể cung cấp câu trả lời."
+ anomalous_cube_enemy_known: "[event_target:anomalous_cube_fallen_empire.GetName]"
+ anomalous_cube_enemy_unknown: "Đế quốc đó"
  strange_worlds.2035.name: "Gợn Sóng Kim Loại"
  strange_worlds.2035.desc_intro: "Việc điều tra sâu hơn về khối lập phương bí ẩn khổng lồ trên [fromfrom.planet.GetName] lại mang đến nhiều câu hỏi hơn là câu trả lời. Bề mặt ngoài của nó mịn màng và liền mạch tuyệt đối, máy quét của chúng ta không thể đâm xuyên qua. Khi chúng ta tiến lại gần khối lập phương, bề mặt sáng bóng hùng vĩ của nó đột nhiên gợn sóng nhè nhẹ, phản ứng lại sự xuất hiện của chúng ta."
  strange_worlds.2035.desc_lm: "$strange_worlds.2035.desc_intro$§H[event_target:anomalous_cube_scientist.GetName]§! kết luận rằng nó được chế tạo từ một dạng §YKim Loại Sống§! nào đó."

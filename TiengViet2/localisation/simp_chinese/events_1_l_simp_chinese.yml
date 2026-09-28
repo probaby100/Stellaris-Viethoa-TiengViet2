@@ -1651,6 +1651,7 @@
  observation.3135.b: "Đây đương nhiên là một cách để tạo ra lịch sử!"
  observation.3135.b.tooltip: "Nền văn minh trên [great_pyramid_planet.GetName] đã bước sang thời đại tiếp theo."
  observation.3135.c: "Xóa sạch mọi dấu vết của chúng ta, rồi tiếp tục làm việc."
+ remove_pyramid: "Âm thầm tháo dỡ §Y$building_great_pyramid$§!"
  observation.3135.d: "Hy vọng họ quên sạch những chuyện này đi?"
  observation.3136.desc: "Sự hỗn loạn trên §Y[great_pyramid_planet.GetName]§! cuối cùng cũng đã dịu đi, chúng ta rốt cuộc cũng có cơ hội được xem xét những hậu quả thảm khốc do đoàn nghiên cứu khoa học gây ra.\n\nTrong một khoảng thời gian ngắn, đa số người dân trên hành tinh này đã bị cuốn vào một cuộc chiến tranh tôn giáo toàn diện, đây là hậu quả trực tiếp từ việc đoàn nghiên cứu khoa học được họ gọi là “Người Trời” bất ngờ giáng thế trong thời gian ngắn. Khi một phe tham chiến xây dựng một kim tự tháp khác cho một vị tân thần khác của họ, những tranh chấp đã chuyển hóa thành bạo lực. Trong cuộc xung đột tôn giáo này, rất nhiều [great_pyramid_country.GetSpeciesNamePlural] đã bỏ mạng vì nó."
  observation.3136.a.tooltip: "§R200§! £pop£ §Hnhân khẩu§! trên [great_pyramid_planet.GetName] đã bị tiêu diệt."

@@ -40,14 +40,16 @@
  NAME_Azizians: "Azizian"
  NAME_Cockroach: "Gián" #nghĩa đen
  NAME_Cockroach_plural: "Gián" #nghĩa đen
+ NAME_Mardak_Vol: "Mardak Vol"
  NAME_Migrating_Trees: "Cây Di cư" #nghĩa đen
  NAME_Rampaging_Forests: "Rừng Cuồng nộ" #nghĩa đen
  NAME_Prikki: "Prikki"
  NAME_Robot: "Người máy"
  NAME_Robot_plural: "Người máy"
  NAME_Titans: "Titan" #dạng sống khổng lồ
- NAME_Demon_Refugees: "Ác quỷ Tị nạn"
- NAME_Demon_Refugee_pl: "Ác quỷ Tị nạn"
+ NAME_Vol: "Vol"
+ NAME_Demon_Refugees: "Quỷ dữ"
+ NAME_Demon_Refugee_pl: "Quỷ dữ"
  #Tên hệ sao hỗn hợp
  NAME_Klendath: "Klendath"
  NAME_Pantagruel: "Pantagruel"
@@ -117,6 +119,7 @@
  NAME_Kellop-Gar: "Kellop-Gar"
  NAME_Lessenger: "Lessenger"
  NAME_Lesser_Messenger: "$NAME_Lessenger$"
+ NAME_Mardak_Purger: "Kẻ thanh trừng Mardak"
  NAME_Mended_Frontier: "Tiền tuyến được Tu sửa" #như trong 'NAME_Shattered_Frontier'
  NAME_Migil-Yar: "Migil-Yar"
  NAME_Suntha-Pol: "Suntha-Pol"

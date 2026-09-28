@@ -635,6 +635,7 @@
  #Systems #
  ###########
  pc_rift_star: "Khe hở Cõi sao"
+ pc_rift_star_plural: "Khe nứt tinh giới"
  pc_rift_star_desc: "Các thiên thể trong hệ sao này quay quanh một Vết nứt Cõi sao, thay vì một ngôi sao."
  sc_rift_star: "$pc_rift_star$"
  sc_rift_star_desc: "$sc_rift_star$"

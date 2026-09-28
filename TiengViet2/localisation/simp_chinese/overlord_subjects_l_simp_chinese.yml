@@ -592,7 +592,6 @@
  mod_ship_military_upkeep_mult: "Phí bảo trì tàu quân sự"
  mod_shipclass_mining_station_build_cost_mult: "Chi phí xây trạm khai thác"
  mod_shipclass_mining_station_build_speed_mult: "Tốc độ xây trạm khai thác"
- holding_splinter_hive_modifier: "Liên kết cộng sinh với Nhánh tổ đàn"
  holding_noble_vacation_home_modifier: "Quý tộc thoải mái"
  mod_planet_jobs_unity_upkeep_mult: "Phí bảo trì £unity£$unity$ cần cho công việc £job£"
  MOD_SUBJECT_TECH_COST_MULT: "Chi phí nghiên cứu công nghệ"
@@ -928,6 +927,7 @@
  resource_subsidies_advanced: "Cấp cao"
  resource_subsidies_research: "Nghiên cứu"
  resource_subsidies_strategic: "Chiến lược"
+ resource_subsidies_unity: "Đoàn kết"
  # Tội phạm hoặc Sai lệch
  type_crime: "£crime£ §Y$PLANET_CRIME_TITLE$§!"
  type_deviancy: "£crime£ §YĐộ lệch chuẩn§!"

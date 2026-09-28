@@ -1,8 +1,8 @@
 Hướng dẫn để Launcher Paradox nhận được mod
 
 1. Mở file "TiengViet2.mod" bằng ứng dụng Notepad
-2. Sửa đường dẫn "path="C:\Users\tuyen\OneDrive\Documents\Paradox Interactive\Stellaris\mod\TiengViet2" thành đường dẫn thư mục chứa tệp tin mod
-3. Chạy lại Launcher Paradox để xem thành quả
+2. Sửa đường dẫn path="C:\Users\tuyen\OneDrive\Documents\Paradox Interactive\Stellaris\mod\TiengViet2" thành đường dẫn thư mục chứa tệp tin mod
+3. Chạy lại Launcher Paradox để xem bản mod đã được nhận chưa, nhận rồi thì kích hoạt và chạy game ở ngôn ngữ tiếng Trung (giản thể)
 4. Lỗi thì gửi bình luận lên video Youtube của mình nhé
 
 ---------------------------------------------------------------------
@@ -10,9 +10,9 @@ Hướng dẫn để Launcher Paradox nhận được mod
 Hướng dẫn chạy thẳng Stellaris Việt hóa dành cho anh em hệ hắc ám
 
 1. Mở file "TiengViet2.mod" bằng ứng dụng Notepad
-2. Sửa đường dẫn "path="C:\Users\tuyen\OneDrive\Documents\Paradox Interactive\Stellaris\mod\TiengViet2" thành đường dẫn thư mục chứa tệp tin mod
+2. Sửa đường dẫn path="C:\Users\tuyen\OneDrive\Documents\Paradox Interactive\Stellaris\mod\TiengViet2" thành đường dẫn thư mục chứa tệp tin mod
 3. Truy cập tệp tin C:\Users\-Tên người dùng-\OneDrive\Documents\Paradox Interactive\Stellaris\pdx_settings.txt, tìm dòng value="l_english" và sửa thành value="l_simp_chinese"
-4. Tạo một lối tắt (shortcut) của tệp tin stellaris.exe nằm trong thư mục gốc của trò chơi, thêm dòng sau vào đường dẫn, lưu ý nhớ sửa đường dẫn đúng theo nơi lưu game ---- "D:\Stellaris\stellaris.exe -mod=mod/TiengViet2.mod" 
+4. Tạo một lối tắt (shortcut) của tệp tin stellaris.exe nằm trong thư mục gốc của trò chơi, thêm dòng sau vào đường dẫn, lưu ý nhớ sửa đường dẫn đúng theo nơi lưu game ---- "D:\Stellaris\stellaris.exe -mod=mod/TiengViet2.mod"
 5. Chạy bản lối tắt Stellaris đó để vào game
 6. Lỗi thì gửi bình luận lên video Youtube của mình nhé
 

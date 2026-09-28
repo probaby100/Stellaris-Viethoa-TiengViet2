@@ -221,8 +221,6 @@
  galactic_crucible_ruined_MEGASTRUCTURE_DETAILS: "Khu phế tích rộng lớn vẫn đang nhấp nháy những xung điện nhiệt bất quy tắc."
  SPAWN_CONDUITS: "$entropy_conduit_plural$"
  SPAWN_CONDUITS_DESC: "$galactic_crucible_4$ sẽ tự động chế tạo $entropy_conduit_plural$. Chúng sẽ tiến đến những ngôi sao có thể chuyển hóa thành §Y$pc_m_giant_star$§!."
- megastructure_overclocking_desc: "Thông qua chiến lược ép xung, siêu cấu trúc này có thể vượt qua giới hạn hoạt động tiêu chuẩn, mở khóa các hiệu ứng độc đáo."
- overclock_mode: "Chế độ:"
  overclock_gc_default: "$overclock_mode$§HMặc định§!"
  overclock_gc_default_desc: "Sản xuất Entropy Kết tinh ở mức độ ổn định và vừa phải.\n"
  overclock_gc_high: "$overclock_mode$§HÉp xung§!"

@@ -13,6 +13,7 @@
  trait_robot_aquatic_tooltip: "$trait_aquatic_tooltip$"
  trait_aquatic_remove_evolutionary_mastery: "§RCần truyền thống §Y$tr_genetics_resequencing$§! để xóa bỏ.§!"
  trait_aquatic_remove_hydrocentric: "§RKhông thể xóa bỏ đặc điểm §Y$trait_aquatic$§! sau khi đã chọn đặc quyền thăng thiên §Y$ap_hydrocentric$§!.§!"
+ trait_aquatic_requires_ocean_preference: "§RĐặc điểm §Y$trait_aquatic$§! yêu cầu ưa thích hành tinh §YĐại dương§!.§!"
  leader_trait_aquatic_admiral: "Thủy sinh"
  leader_trait_aquatic_admiral_desc: "Phi thuyền cần được thiết kế lại để chỉ huy này có cảm giác như ở nhà, và điều này vô tình làm cho vỏ tàu của hạm đội trở nên cứng cáp và bền bỉ hơn."
  origin_here_be_dragons: "Nơi Rồng ngự trị"
